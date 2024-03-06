@@ -1,0 +1,3175 @@
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:0
+# text = seppa se coatl o panoaya in tlahcoyan ome cuanmeh tohtomauaqueh .
+# text[spa] = una vez, una culebra cruzaba entre dos grandes troncos muy gruesos.
+# tags = DONE
+1	seppa	seppa	ADV	_	_	5	advmod	_	_
+2	se	se	DET	_	_	3	det	_	_
+3	coatl	coatl	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	panoaya	panoa	VERB	_	_	0	root	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	tlahcoyan	tlahcoyan	NOUN	_	_	5	obl	_	_
+8	ome	ome	NUM	_	_	9	nummod	_	_
+9	cuanmeh	cuantli	NOUN	_	_	7	nmod	_	_
+10	tohtomauaqueh	tomauac	ADJ	_	_	9	amod	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:1
+# text = ihcuac o panotaya o motoxah se cuauitl uan o uetzito ipan .
+# text[spa] = cuando iba pasando, se resbal¢ un tronco yendo a caer sobre ella.
+# tags = DONE
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	panotaya	panota	VERB	_	_	5	advcl	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	motoxah	motoxa	VERB	_	_	0	root	_	_
+6	se	se	DET	_	_	7	det	_	_
+7	cuauitl	cuauitl	NOUN	_	_	5	nsubj	_	_
+8	uan	uan	CCONJ	_	_	10	cc	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	uetzito	uetzi	VERB	_	_	5	conj	_	_
+11	ipan	pan	NOUN	_	_	10	obl	_	_
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:2
+# text = o tilin uan acuel oquis .
+# text[spa] = apret¢se y ya no pudo salir.
+# tags = DONE
+1	o	o	AUX	_	_	2	aux	_	_
+2	tilin	tilini	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	5	cc	_	_
+4	acuel	acueli	ADV	_	_	5	advmod	_	_
+5	oquis	quisa	VERB	_	_	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:3
+# text = o peh o mocuecuetzoaya pero amo o uelit o quis .
+# text[spa] = luego comenz¢ a retorcerse, pero era in£til;
+# tags = DONE
+1	o	o	AUX	_	_	2	aux	_	_
+2	peh	peua	VERB	_	_	0	root	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	mocuecuetzoaya	cuecuetzoa	VERB	_	_	2	xcomp	_	_
+5	pero	pero	CCONJ	_	_	8	cc	_	_
+6	amo	amo	ADV	_	_	8	advmod	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	uelit	ueli	VERB	_	_	4	conj	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	quis	quisa	VERB	_	_	8	xcomp	_	_
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:4
+# text = ocachi o tilinia uan y o quechpatzmiquia .
+# text[spa] = cada vez se apretaba m s y ya se estaba ahogando.
+# tags = DONE
+1	ocachi	ocachi	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	tilinia	tilini	VERB	_	_	0	root	_	_
+4	uan	uan	CCONJ	_	_	7	cc	_	_
+5	y	ya	ADV	_	_	7	advmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quechpatzmiquia	echpatzmiqiu	VERB	_	_	3	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:5
+# text = uan o panoc que se tlacatl que o chantia amo uehca de n cuahtlal oquilnamic o quisasquia quicuitih in cuauitl uan ihcon o quichih .
+# text[spa] = y sucedi¢ que un hombre, que habitaba no lejos del bosque, record¢ que deb¡a salir a cortar le€a; as¡ lo hizo.
+# tags = DONE
+1	uan	uan	CCONJ	_	_	3	cc	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	panoc	panoa	VERB	_	_	0	root	_	_
+4	que	que	SCONJ	_	_	6	mark	_	_
+5	se	se	DET	_	_	6	det	_	_
+6	tlacatl	tlacatl	NOUN	_	_	15	nsubj	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	chantia	chantia	VERB	_	_	6	acl	_	_
+10	amo	amo	ADV	_	_	11	advmod	_	_
+11	uehca	uehca	ADV	_	_	9	advmod	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	n	in	DET	_	_	14	det	_	_
+14	cuahtlal	cuahtlal	NOUN	_	_	11	nmod	_	_
+15	oquilnamic	quilnamiqui	NOUN	_	_	3	csubj	_	_
+16	o	o	AUX	_	_	17	aux	_	_
+17	quisasquia	quisa	VERB	_	_	15	ccomp	_	_
+18	quicuitih	cuiti	VERB	_	_	17	advcl	_	_
+19	in	in	DET	_	_	20	det	_	_
+20	cuauitl	cuauitl	NOUN	_	_	18	obj	_	_
+21	uan	uan	CCONJ	_	_	24	cc	_	_
+22	ihcon	ihcon	ADV	_	_	24	advmod	_	_
+23	o	o	AUX	_	_	24	aux	_	_
+24	quichih	chiua	VERB	_	_	17	conj	_	_
+25	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:6
+# text = o quicuic in icuahtlatetec uan o yah o quitetequito in cuauitl .
+# text[spa] = cogi¢ su tepoznecochtli y se fue a cortar le€a.
+# tags = DONE
+1	o	o	AUX	_	_	2	aux	_	_
+2	quicuic	cui	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	icuahtlatetec	cuahtlatetec	NOUN	_	_	2	obj	_	_
+5	uan	uan	CCONJ	_	_	7	cc	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	yah	yaui	VERB	_	_	2	conj	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quitetequito	tetequi	VERB	_	_	7	advcl	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	cuauitl	cuauitl	NOUN	_	_	9	obj	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:7
+# text = ihcuac o ahsito cuahtlal uan o panotaya canic o catca in coatl .
+# text[spa] = cuando lleg¢ al bosque e iba pasando por donde estaba la culebra,
+# tags = IN PROGRESS
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ahsito	ahsi	VERB	_	_	0	root	_	_
+4	cuahtlal	cuahtlal	NOUN	_	_	3	obj	_	_
+5	uan	uan	CCONJ	_	_	7	cc	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	panotaya	panotia	VERB	_	_	3	conj	_	_
+8	canic	cani	ADV	_	_	12	advmod	_	_
+9	o	o	AUX	_	_	12	aux	_	_
+10	catca	catqui	AUX	_	_	12	cop	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	coatl	coatl	NOUN	_	_	7	advcl	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:8
+# text = o quicac quen o tlasasanacaya uan o ualmocuep o quittac in coatl ompa o catca .
+# text[spa] = oy¢ ruido; se volvi¢, y vio a la culebra que estaba all¡.
+# tags = DONE
+1	o	o	AUX	_	_	2	aux	_	_
+2	quicac	caqui	VERB	_	_	0	root	_	_
+3	quen	quen	ADV	_	_	5	mark	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	tlasasanacaya	tlasasanaca	VERB	_	_	2	advcl	_	_
+6	uan	uan	CCONJ	_	_	8	cc	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	ualmocuep	cuepa	VERB	_	_	2	conj	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	quittac	itta	VERB	_	_	8	parataxis	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	coatl	coatl	NOUN	_	_	10	ccomp	_	_
+13	ompa	ompa	ADV	_	_	12	advmod	_	_
+14	o	o	AUX	_	_	12	aux	_	_
+15	catca	catqui	AUX	_	_	12	cop	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:9
+# text = in coatl o quinotz uan o quilih .
+# text[spa] = la culebra lo llam¢ y le dijo:
+# tags = DONE
+1	in	in	DET	_	_	2	det	_	_
+2	coatl	coatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quinotz	notza	VERB	_	_	0	root	_	_
+5	uan	uan	CCONJ	_	_	7	cc	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quilih	ilia	VERB	_	_	4	conj	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:10
+# text = cualli tlacatl xiuiqui nican xinechquixtili nin cuauitl nechmictihtoc .
+# text[spa] = --buen hombre, ven ac , qu¡tame este  rbol que me est matando.
+# tags = DONE
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	tlacatl	tlacatl	NOUN	_	_	3	vocative	_	_
+3	xiuiqui	uiqui	VERB	_	_	0	root	_	_
+4	nican	nican	ADV	_	_	3	advmod	_	_
+5	xinechquixtili	quixtilia	VERB	_	_	3	parataxis	_	_
+6	nin	nin	DET	_	_	7	det	_	_
+7	cuauitl	cuauitl	NOUN	_	_	5	obj	_	_
+8	nechmictihtoc	mictia	VERB	_	_	3	parataxis	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:11
+# text = amo nimitzquixtilis nic tinechcuas .
+# text[spa] = --no te lo quito porque me comer¡as.
+# tags = DONE
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	nimitzquixtilis	quixtilia	VERB	_	_	0	root	_	_
+3	nic	nic	SCONJ	_	_	4	mark	_	_
+4	tinechcuas	cua	VERB	_	_	2	advcl	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:12
+# text = in coatl o quinanquilih , quilia .
+# text[spa] = la culebra le contest¢ dicindole:
+# tags = DONE
+1	in	in	DET	_	_	2	det	_	_
+2	coatl	coatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quinanquilih	nanquilia	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	quilia	ilia	VERB	_	_	4	parataxis	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:13
+# text = amo nimitzcuas , xinechquixtili .
+# text[spa] = --no te comer; qu¡tamelo.
+# tags = DONE
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	nimitzcuas	cua	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	xinechquixtili	quixtilia	VERB	_	_	2	parataxis	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:14
+# text = yonimitzilih amo nimitzquixtilis .
+# text[spa] = --ya te dije que te lo quitar.
+# tags = DONE
+1	yonimitzilih	ilia	VERB	_	_	0	root	_	_
+2	amo	amo	ADV	_	_	3	advmod	_	_
+3	nimitzquixtilis	quixtilia	VERB	_	_	1	ccomp	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:15
+# text = amitlah nimitzchiuilis , quenin ?
+# text[spa] = --!!no te har nada!  !!c¢mo!, ??
+1	amitlah	amitlah	ADV	_	_	2	advmod	_	_
+2	nimitzchiuilis	chiuilia	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	quenin	queni	ADV	_	_	2	discourse	_	_
+5	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:16
+# text = amo timotlacoltia ?
+# text[spa] = no te compadeces?
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	timotlacoltia	tlacoltia	VERB	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:17
+# text = xiuiqui xinechquixtili nimitztlatlahtia .
+# text[spa] = ven; qu¡tamelo; te lo ruego.
+1	xiuiqui	uiqui	VERB	_	_	0	root	_	_
+2	xinechquixtili	quixtilia	VERB	_	_	1	parataxis	_	_
+3	nimitztlatlahtia	tlatlahtia	VERB	_	_	1	parataxis	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:18
+# text = semi o quitlatlahtih in coatl , niman in tlacatl o mopachoh uan o peh quitetequi in cuauitl ica in itepostlatetectli
+# text[spa] = mucho le rog¢ la culebra, que luego el hombre se acerc¢ y comenz¢ a cortar el  rbol con su tepoznecochtli.
+# tags = fixsenttokenization
+1	semi	semi	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quitlatlahtih	tlatlahti	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	coatl	coatl	NOUN	_	_	3	nsubj	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	niman	niman	ADV	_	_	11	advmod	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	tlacatl	tlacatl	NOUN	_	_	11	nsubj	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	mopachoh	pachoa	VERB	_	_	3	parataxis	_	_
+12	uan	uan	CCONJ	_	_	14	cc	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	peh	peua	VERB	_	_	11	conj	_	_
+15	quitetequi	tetequi	VERB	_	_	14	xcomp	_	_
+16	in	in	DET	_	_	17	det	_	_
+17	cuauitl	cuauitl	NOUN	_	_	15	obj	_	_
+18	ica	ca	NOUN	_	_	15	obl	_	_
+19	in	in	DET	_	_	20	det	_	_
+20	itepostlatetectli	itepostlatetectli	NOUN	_	_	18	nmod	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:18.2
+# text = ihcuac o quihcuanih in cuauitl o quis in coatl , uan o peh motepipitzoa o quinequia quicuas
+# text[spa] = luego que apart¢ el  rbol, sali¢ la culebra y comenz¢ a lamerse los labios, quer¡a comer.
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quihcuanih	ihcuani	VERB	_	_	7	advcl	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	cuauitl	cuauitl	NOUN	_	_	3	obj	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quis	quisa	VERB	_	_	0	root	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	coatl	coatl	NOUN	_	_	7	nsubj	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	uan	uan	CCONJ	_	_	14	cc	_	_
+12	o	o	AUX	_	_	14	aux	_	_
+13	peh	peua	AUX	_	_	14	aux	_	_
+14	motepipitzoa	pipitzoa	VERB	_	_	7	conj	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	quinequia	nequi	VERB	_	_	14	parataxis	_	_
+17	quicuas	cua	VERB	_	_	16	xcomp	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:19
+# text = y o quipiaya se tonal que amo o tlacuaya , uan o quilih .
+# text[spa] = ya ten¡a un d¡a sin comer.  entonces le dijo:
+# tags = DONE
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quipiaya	pia	VERB	_	_	0	root	_	_
+4	se	se	DET	_	_	5	det	_	_
+5	tonal	tonal	NOUN	_	_	3	obj	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	amo	amo	ADV	_	_	9	advmod	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	tlacuaya	cua	VERB	_	_	3	advcl	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	uan	uan	CCONJ	_	_	13	cc	_	_
+12	o	o	AUX	_	_	13	aux	_	_
+13	quilih	ilia	VERB	_	_	3	conj	_	_
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:20
+# text = cualli tlacatl , ye nimiqui de apistli , axan nimitzcuas , nicpia se tonal que amo nitlacua .
+# text[spa] = --buen hombre, me muero de hambre, ahora voy a comerte; tengo un d¡a sin comer.
+# tags = DONE
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	tlacatl	tlacatl	NOUN	_	_	5	vocative	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	ye	ye	ADV	_	_	5	advmod	_	_
+5	nimiqui	miqui	VERB	_	_	0	root	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	apistli	apistli	NOUN	_	_	5	obl	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	axan	axan	ADV	_	_	10	advmod	_	_
+10	nimitzcuas	cua	VERB	_	_	5	parataxis	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	nicpia	pia	VERB	_	_	5	parataxis	_	_
+13	se	se	DET	_	_	14	det	_	_
+14	tonal	tonal	NOUN	_	_	12	obj	_	_
+15	que	que	SCONJ	_	_	17	mark	_	_
+16	amo	amo	ADV	_	_	17	advmod	_	_
+17	nitlacua	tlacua	VERB	_	_	12	advcl	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:21
+# text = tlen tiquihtoa de non cualli tlacatl ?
+# text[spa] = ??qu dices a eso, buen hombre?
+# tags = DONE
+1	tlen	tlenoh	PRON	_	_	2	obj	_	_
+2	tiquihtoa	ihtoa	VERB	_	_	0	root	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	non	non	DET	_	_	2	obl	_	_
+5	cualli	cualli	ADJ	_	_	6	amod	_	_
+6	tlacatl	tlacatl	NOUN	_	_	2	vocative	_	_
+7	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:22
+# text = quenin ?
+# text[spa] = --!!c¢mo!
+1	quenin	queni	ADV	_	_	0	root	_	_
+2	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:23
+# text = ticnequi tinechcuas ?
+# text[spa] = ??quieres comerme?
+1	ticnequi	nequi	VERB	_	_	0	root	_	_
+2	tinechcuas	cua	VERB	_	_	1	xcomp	_	_
+3	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:24
+# text = quen nicneltocas ?
+# text[spa] = ??c¢mo es posible?
+1	quen	quen	ADV	_	_	2	advmod	_	_
+2	nicneltocas	neltoca	VERB	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:25
+# text = o nimitzquixtilih in cuauitl que o mitzmictihtoya uan axan ticnequi tinechcuas ?
+# text[spa] = !!yo te quit el  rbol que te estaba matando y ahora quieres comerme!
+1	o	o	AUX	_	_	2	aux	_	_
+2	nimitzquixtilih	quixtilia	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	cuauitl	cuauitl	NOUN	_	_	2	obj	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	mitzmictihtoya	mictia	VERB	_	_	4	acl	_	_
+8	uan	uan	CCONJ	_	_	10	cc	_	_
+9	axan	axan	ADV	_	_	10	advmod	_	_
+10	ticnequi	nequi	VERB	_	_	2	conj	_	_
+11	tinechcuas	cua	VERB	_	_	10	xcomp	_	_
+12	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:26
+# text = tlen cualli tlacatl , amo ticmati que itlah cualli ica itlah amo cualli se quitlaxtlauiliah ?
+# text[spa] = --qu, buen hombre, ??no sabes que un bien con un mal se paga?
+1	tlen	tlenoh	PRON	_	_	2	obl	_	_
+2	cualli	cualli	ADJ	_	_	3	amod	_	_
+3	tlacatl	tlacatl	NOUN	_	_	6	vocative	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	amo	amo	ADV	_	_	6	advmod	_	_
+6	ticmati	cmati	VERB	_	_	0	root	_	_
+7	que	que	SCONJ	_	_	15	mark	_	_
+8	itlah	itlah	PRON	_	_	15	obj	_	_
+9	cualli	cualli	NOUN	_	_	8	amod	_	_
+10	ica	ca	NOUN	_	_	15	obl	_	_
+11	itlah	itlah	PRON	_	_	10	nmod	_	_
+12	amo	amo	ADV	_	_	13	advmod	_	_
+13	cualli	cualli	ADJ	_	_	11	amod	_	_
+14	se	se	PRON	_	_	15	nsubj	_	_
+15	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	6	ccomp	_	_
+16	?	?	PUNCT	_	_	15	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:27
+# text = amo .
+# text[spa] = --no.
+1	amo	amo	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:28
+# text = ocuel o quinanquilih in coatl .
+# text[spa] = de nuevo respondi¢ la culebra:
+1	ocuel	ocuel	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quinanquilih	nanquilia	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	coatl	coatl	NOUN	_	_	3	nsubj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:29
+# text = tlen , amo ticneltoca ?
+# text[spa] = --qu ??no crees?,
+1	tlen	tlenoh	PRON	_	_	4	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	amo	amo	ADV	_	_	4	advmod	_	_
+4	ticneltoca	neltoca	VERB	_	_	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:30
+# text = amo ihcon ticmati mochiua ?
+# text[spa] = ??no est s convencido?
+1	amo	amo	ADV	_	_	3	advmod	_	_
+2	ihcon	ihcon	ADV	_	_	3	advmod	_	_
+3	ticmati	mati	VERB	_	_	0	root	_	_
+4	mochiua	chiua	VERB	_	_	3	ccomp	_	_
+5	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:31
+# text = amo , non amo nicneltoca .
+# text[spa] = --no estoy de acuerdo.
+1	amo	amo	ADV	_	_	5	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	non	non	PRON	_	_	5	obj	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	nicneltoca	neltoca	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:32
+# text = in tla amo ticneltoca , xiquinualica naui tlatlacah , uan imix pan niquintlahtlanis uan tiquittas quen melauac que se cualli ica se amocualli mitztlaxtlauilisqueh .
+# text[spa] = --si no est s de acuerdo, trae cuatro personas y delante de ti les preguntar y ver s c¢mo es cierto, que un bien con un mal se paga.
+1	in	in	SCONJ	_	_	4	mark	_	_
+2	tla	tla	SCONJ	_	_	4	mark	_	_
+3	amo	amo	ADV	_	_	4	advmod	_	_
+4	ticneltoca	neltoca	VERB	_	_	6	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	xiquinualica	ualica	VERB	_	_	0	root	_	_
+7	naui	naui	NUM	_	_	8	nummod	_	_
+8	tlatlacah	tlacatl	NOUN	_	_	6	obj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	uan	uan	CCONJ	_	_	13	cc	_	_
+11	imix	ix	NOUN	_	_	12	nmod	_	_
+12	pan	pan	NOUN	_	_	13	obl	_	_
+13	niquintlahtlanis	tlahtlani	VERB	_	_	6	conj	_	_
+14	uan	uan	CCONJ	_	_	15	cc	_	_
+15	tiquittas	itta	VERB	_	_	13	conj	_	_
+16	quen	quen	ADV	_	_	17	advmod	_	_
+17	melauac	melauac	ADJ	_	_	15	advcl	_	_
+18	que	que	SCONJ	_	_	24	mark	_	_
+19	se	se	DET	_	_	20	det	_	_
+20	cualli	cualli	NOUN	_	_	24	nsubj	_	_
+21	ica	ca	NOUN	_	_	24	obl	_	_
+22	se	se	PRON	_	_	23	det	_	_
+23	amocualli	amocualli	NOUN	_	_	21	nmod	_	_
+24	mitztlaxtlauilisqueh	tlaxtlauilia	VERB	_	_	17	csubj	_	_
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:33
+# text = o yah niman in cualli tlacatl , o quintemoto naui yolcameh oquichtin .
+# text[spa] = fuese luego el buen hombre en busca de cuatro animales machos.
+1	o	o	AUX	_	_	2	aux	_	_
+2	yah	yaui	VERB	_	_	0	root	_	_
+3	niman	niman	ADV	_	_	2	advmod	_	_
+4	in	in	DET	_	_	6	det	_	_
+5	cualli	cualli	ADJ	_	_	6	amod	_	_
+6	tlacatl	tlacatl	NOUN	_	_	2	nsubj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quintemoto	temoa	VERB	_	_	2	parataxis	_	_
+10	naui	naui	NUM	_	_	11	nummod	_	_
+11	yolcameh	yolcatl	NOUN	_	_	9	obj	_	_
+12	oquichtin	oquichtin	NOUN	_	_	11	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:34
+# text = amo cosa o yah uehca ompa o quimahsic .
+# text[spa] = no tuvo que andar muy lejos, cerca de ah¡ los encontr¢.
+1	amo	amo	ADV	_	_	4	advmod	_	_
+2	cosa	cosa	ADV	_	_	4	advmod	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	yah	yaui	VERB	_	_	0	root	_	_
+5	uehca	uehca	ADV	_	_	4	advmod	_	_
+6	ompa	ompa	ADV	_	_	8	advmod	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	quimahsic	ahsi	VERB	_	_	4	parataxis	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:35
+# text = o cuicac se cuacuaueh , se cauayoh , se leon uan se coyotl .
+# text[spa] = llev¢ un buey, un caballo, un le¢n y un coyote.
+1	o	o	AUX	_	_	2	aux	_	_
+2	cuicac	uica	VERB	_	_	0	root	_	_
+3	se	se	DET	_	_	4	det	_	_
+4	cuacuaueh	cuacuaueh	NOUN	_	_	2	obj	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	se	se	DET	_	_	7	det	_	_
+7	cauayoh	cauayoh	NOUN	_	_	4	conj	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	se	se	DET	_	_	10	det	_	_
+10	leon	leon	NOUN	_	_	4	conj	_	_
+11	uan	uan	CCONJ	_	_	13	cc	_	_
+12	se	se	DET	_	_	13	det	_	_
+13	coyotl	coyotl	NOUN	_	_	4	conj	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:36
+# text = in coatl o peh quintlahtlania cada se yolcatl ix pan in cualli tlacatl .
+# text[spa] = la culebra comenz¢ a preguntar a cada uno de los animales, delante del buen hombre.
+1	in	in	DET	_	_	2	det	_	_
+2	coatl	coatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	peh	peua	VERB	_	_	0	root	_	_
+5	quintlahtlania	tlahtlania	VERB	_	_	4	xcomp	_	_
+6	cada	cada	DET	_	_	8	det	_	_
+7	se	se	DET	_	_	8	det	_	_
+8	yolcatl	yolcatl	NOUN	_	_	5	obj	_	_
+9	ix	ix	NOUN	_	_	10	nmod	_	_
+10	pan	pan	NOUN	_	_	5	obl	_	_
+11	in	in	DET	_	_	13	det	_	_
+12	cualli	cualli	ADJ	_	_	13	amod	_	_
+13	tlacatl	tlacatl	NOUN	_	_	9	nmod	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:37
+# text = cualli leon , amo melauac que itlah cualli ica se itlah amo cualli mitztlaxtlauiliah ?
+# text[spa] = --buen le¢n, ??no es cierto que un bien con un mal se paga?
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	leon	leon	NOUN	_	_	5	vocative	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	melauac	melauac	ADJ	_	_	0	root	_	_
+6	que	que	SCONJ	_	_	14	mark	_	_
+7	itlah	itlah	PRON	_	_	14	nsubj	_	_
+8	cualli	cualli	ADV	_	_	7	amod	_	_
+9	ica	ca	NOUN	_	_	14	obl	_	_
+10	se	se	DET	_	_	11	det	_	_
+11	itlah	itlah	PRON	_	_	9	nmod	_	_
+12	amo	amo	ADV	_	_	13	advmod	_	_
+13	cualli	cualli	ADJ	_	_	11	amod	_	_
+14	mitztlaxtlauiliah	tlaxtlauilia	VERB	_	_	5	csubj	_	_
+15	?	?	PUNCT	_	_	14	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:38
+# text = quemah .
+# text[spa] = --s¡.
+1	quemah	quemah	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:39
+# text = cualli cuacuaueh , amo melauac que itlah cualli ica itlah amo cualli mitztlaxtlauiliah ?
+# text[spa] = --buen buey, ??no es cierto que un bien con un mal se paga?
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	cuacuaueh	cucuaueh	NOUN	_	_	5	vocative	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	melauac	melauac	ADJ	_	_	0	root	_	_
+6	que	que	SCONJ	_	_	13	mark	_	_
+7	itlah	itlah	PRON	_	_	13	nsubj	_	_
+8	cualli	cualli	ADJ	_	_	7	amod	_	_
+9	ica	ca	NOUN	_	_	13	obl	_	_
+10	itlah	itlah	PRON	_	_	9	nmod	_	_
+11	amo	amo	ADV	_	_	12	advmod	_	_
+12	cualli	cualli	ADJ	_	_	10	amod	_	_
+13	mitztlaxtlauiliah	tlaxtlauilia	VERB	_	_	5	csubj	_	_
+14	?	?	PUNCT	_	_	13	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:40
+# text = quemah .
+# text[spa] = --s¡.
+1	quemah	quemah	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:41
+# text = cualli cauayoh , amo melauac que itlah cualli ticchiua ica itlah amo cualli mitztlaxtlauiliah ?
+# text[spa] = --buen caballo, ??no es cierto que un bien con un mal se paga?
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	cauayoh	cauayoh	NOUN	_	_	5	vocative	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	melauac	melauac	ADJ	_	_	0	root	_	_
+6	que	que	SCONJ	_	_	14	mark	_	_
+7	itlah	itlah	PRON	_	_	14	obj	_	_
+8	cualli	cualli	ADV	_	_	7	amod	_	_
+9	ticchiua	chiua	VERB	_	_	7	acl	_	_
+10	ica	ca	NOUN	_	_	14	obl	_	_
+11	itlah	itlah	PRON	_	_	10	nmod	_	_
+12	amo	amo	ADV	_	_	13	advmod	_	_
+13	cualli	cualli	ADJ	_	_	11	amod	_	_
+14	mitztlaxtlauiliah	axtlauilia	VERB	_	_	5	csubj	_	_
+15	?	?	PUNCT	_	_	14	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:42
+# text = quemah .
+# text[spa] = --s¡.
+1	quemah	quemah	INTJ	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:43
+# text = ihcuac in cualli tlacatzintli oquicac tlen o quihtoayah in necate yolcameh que sencah itlah cualli se quichiua ica itlah amo cualli se quitlaxtlauiliah o momahtih .
+# text[spa] = cuando el buen hombre oy¢ lo que dec¡an aquellos animales, que siempre un bien con un mal se paga, se asust¢.
+1	ihcuac	ihcuac	SCONJ	_	_	5	mark	_	_
+2	in	in	DET	_	_	4	det	_	_
+3	cualli	cualli	ADJ	_	_	4	amod	_	_
+4	tlacatzintli	tlacatl	NOUN	_	_	5	nsubj	_	_
+5	oquicac	caqui	VERB	_	_	25	advcl	_	_
+6	tlen	tlenoh	PRON	_	_	8	obj	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	quihtoayah	ihtoa	VERB	_	_	5	ccomp	_	_
+9	in	in	DET	_	_	11	det	_	_
+10	necate	neca	DET	_	_	11	det	_	_
+11	yolcameh	yolcatl	NOUN	_	_	8	nsubj	_	_
+12	que	que	SCONJ	_	_	23	mark	_	_
+13	sencah	sencah	ADV	_	_	23	advmod	_	_
+14	itlah	itlah	PRON	_	_	23	obj	_	_
+15	cualli	cualli	ADJ	_	_	14	amod	_	_
+16	se	se	PRON	_	_	17	nsubj	_	_
+17	quichiua	chiua	VERB	_	_	14	acl	_	_
+18	ica	ca	NOUN	_	_	23	obl	_	_
+19	itlah	itlah	PRON	_	_	18	nmod	_	_
+20	amo	amo	ADV	_	_	21	advmod	_	_
+21	cualli	cualli	ADJ	_	_	19	amod	_	_
+22	se	se	PRON	_	_	23	nsubj	_	_
+23	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	8	ccomp	_	_
+24	o	o	AUX	_	_	25	aux	_	_
+25	momahtih	mahtia	VERB	_	_	0	root	_	_
+26	.	.	PUNCT	_	_	25	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:44
+# text = o poliuia sa yen coyotl quitlahtlanisqueh cox melauac o amo melauac tlen o quihtoaya in coatl .
+# text[spa] = s¢lo faltaba preguntar al coyote si era o no cierto lo que dec¡a la culebra.
+1	o	o	AUX	_	_	2	aux	_	_
+2	poliuia	poliui	VERB	_	_	0	root	_	_
+3	sa	sa	ADV	_	_	5	advmod	_	_
+4	yen	yen	DET	_	_	5	det	_	_
+5	coyotl	coyotl	NOUN	_	_	6	obj	_	_
+6	quitlahtlanisqueh	tlahtlani	VERB	_	_	2	csubj	_	_
+7	cox	cox	SCONJ	_	_	8	mark	_	_
+8	melauac	melauac	ADV	_	_	6	advmod	_	_
+9	o	o	CCONJ	_	_	11	cc	_	_
+10	amo	amo	ADV	_	_	11	advmod	_	_
+11	melauac	melauac	ADJ	_	_	8	conj	_	_
+12	tlen	tlenoh	PRON	_	_	14	obj	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	quihtoaya	ihtoa	VERB	_	_	8	csubj	_	_
+15	in	in	DET	_	_	16	det	_	_
+16	coatl	coatl	NOUN	_	_	14	nsubj	_	_
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:45
+# text = o ahsic in coatl inauac in coyotl .
+# text[spa] = lleg¢se la culebra al coyote:
+1	o	o	AUX	_	_	2	aux	_	_
+2	ahsic	ahsi	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	coatl	coatl	NOUN	_	_	2	nsubj	_	_
+5	inauac	nauac	NOUN	_	_	2	obl	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	coyotl	coyotl	NOUN	_	_	5	nmod	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:46
+# text = cualli coyotzin , amo melauac que itlah cualli se quichiua ica itlah amo cualli se quitlaxtlauiliah ?
+# text[spa] = --buen coyote, ??no es cierto que un bien con un mal se paga?
+1	cualli	cualli	ADJ	_	_	2	amod	_	_
+2	coyotzin	coyotl	NOUN	_	_	5	vocative	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	melauac	melauac	ADJ	_	_	0	root	_	_
+6	que	que	SCONJ	_	_	16	mark	_	_
+7	itlah	itlah	PRON	_	_	16	obj	_	_
+8	cualli	cualli	ADJ	_	_	7	amod	_	_
+9	se	se	PRON	_	_	10	nsubj	_	_
+10	quichiua	chiua	VERB	_	_	8	acl	_	_
+11	ica	ca	NOUN	_	_	16	obl	_	_
+12	itlah	itlah	PRON	_	_	11	nmod	_	_
+13	amo	amo	ADV	_	_	14	advmod	_	_
+14	cualli	cualli	ADJ	_	_	12	amod	_	_
+15	se	se	PRON	_	_	16	nsubj	_	_
+16	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	5	csubj	_	_
+17	?	?	PUNCT	_	_	16	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:47
+# text = poliui niquittas quen o ticatca uan ihcon cualli niquihtos cox melauac o amo melauac tlen tiquihtoa uan cox cualli cah ticcuas nin cualli tlacatzintli noso amo .
+# text[spa] = --falta que vea yo c¢mo estabas y as¡ podr decir si es o no cierto lo que dices, y si est  bien que te comas a este buen hombre, o no.
+1	poliui	poliui	VERB	_	_	0	root	_	_
+2	niquittas	itta	VERB	_	_	1	csubj	_	_
+3	quen	queni	ADV	_	_	2	ccomp	_	_
+4	o	o	AUX	_	_	3	aux	_	_
+5	ticatca	catqui	AUX	_	_	3	cop	_	_
+6	uan	uan	CCONJ	_	_	9	cc	_	_
+7	ihcon	ihcon	ADV	_	_	9	advmod	_	_
+8	cualli	cualli	ADV	_	_	9	advmod	_	_
+9	niquihtos	ihtoa	VERB	_	_	1	conj	_	_
+10	cox	cox	ADV	_	_	11	advmod	_	_
+11	melauac	melauac	ADJ	_	_	9	advmod	_	_
+12	o	o	CCONJ	_	_	14	cc	_	_
+13	amo	amo	ADV	_	_	14	advmod	_	_
+14	melauac	melauac	ADJ	_	_	11	conj	_	_
+15	tlen	tlenoh	PRON	_	_	16	obj	_	_
+16	tiquihtoa	ihtoa	VERB	_	_	11	csubj	_	_
+17	uan	uan	CCONJ	_	_	19	cc	_	_
+18	cox	cox	ADV	_	_	19	advmod	_	_
+19	cualli	cualli	ADJ	_	_	11	conj	_	_
+20	cah	catqui	AUX	_	_	19	cop	_	_
+21	ticcuas	cua	VERB	_	_	19	csubj	_	_
+22	nin	nin	DET	_	_	24	det	_	_
+23	cualli	cualli	ADJ	_	_	24	amod	_	_
+24	tlacatzintli	tlacatl	NOUN	_	_	21	obj	_	_
+25	noso	noso	CCONJ	_	_	26	cc	_	_
+26	amo	amo	ADV	_	_	19	conj	_	_
+27	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:48
+# text = ximotlali queh o ticatca achto .
+# text[spa] = ponte como estabas antes.
+1	ximotlali	motlali	VERB	_	_	0	root	_	_
+2	queh	que	SCONJ	_	_	4	mark	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	ticatca	catqui	VERB	_	_	1	advcl	_	_
+5	achto	achto	ADV	_	_	4	advmod	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:49
+# text = in ocsequi yolcameh oquihtohqueh sanseccan , ma motlali queh o catca ;
+# text[spa] = los otros animales contestaron juntos:  --!!que se ponga;
+1	in	in	DET	_	_	3	det	_	_
+2	ocsequi	ocse	DET	_	_	3	det	_	_
+3	yolcameh	yolcatl	NOUN	_	_	4	nsubj	_	_
+4	oquihtohqueh	ihtoa	VERB	_	_	0	root	_	_
+5	sanseccan	sanseccan	ADV	_	_	4	advmod	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	ma	ma	AUX	_	_	8	aux	_	_
+8	motlali	tlalia	VERB	_	_	4	ccomp	_	_
+9	queh	que	SCONJ	_	_	11	mark	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	catca	catqui	VERB	_	_	8	advcl	_	_
+12	;	;	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:50
+# text = tiquittasqueh .
+# text[spa] = veremos!
+1	tiquittasqueh	itta	VERB	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:51
+# text = tons in coatl o motlalih queh o catca ocuel ihtec in cuanmeh uan o quihtoh in coyotl .
+# text[spa] = entonces, la culebra se coloc¢ otra vez entre los  rboles, y luego le dijo el coyote:
+1	tons	tons	ADV	_	_	5	advmod	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	coatl	coatl	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	motlalih	tlalia	VERB	_	_	0	root	_	_
+6	queh	que	SCONJ	_	_	8	mark	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	catca	catqui	VERB	_	_	5	advcl	_	_
+9	ocuel	ocuel	ADV	_	_	5	advmod	_	_
+10	ihtec	ihtec	NOUN	_	_	5	obl	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	cuanmeh	cuantli	NOUN	_	_	10	nmod	_	_
+13	uan	uan	CCONJ	_	_	15	cc	_	_
+14	o	o	AUX	_	_	15	aux	_	_
+15	quihtoh	ihtoa	VERB	_	_	5	conj	_	_
+16	in	in	DET	_	_	17	det	_	_
+17	coyotl	coyotl	NOUN	_	_	15	nsubj	_	_
+18	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:52
+# text = axan ximocaua ;
+# text[spa] = --ahora, !!qudate!
+1	axan	axan	ADV	_	_	2	advmod	_	_
+2	ximocaua	caua	VERB	_	_	0	root	_	_
+3	;	;	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:53
+# text = in tehuan ye tiaueh .
+# text[spa] = nosotros ya nos vamos.
+1	in	in	DET	_	_	2	det	_	_
+2	tehuan	tehuan	PRON	_	_	4	nsubj	_	_
+3	ye	ye	ADV	_	_	4	advmod	_	_
+4	tiaueh	yaui	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:54
+# text = o quicahteuaqueh ;
+# text[spa] = la dejaron
+1	o	o	AUX	_	_	2	aux	_	_
+2	quicahteuaqueh	cahteua	VERB	_	_	0	root	_	_
+3	;	;	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:55
+# text = mocuecuetzohtoc uan tzahtzitoc quemeh cuac o cahsic in cualli tlacatzintli .
+# text[spa] = retorcindose y chillando, como cuando la encontr¢ el buen hombre.
+1	mocuecuetzohtoc	cuecuetzoa	VERB	_	_	0	root	_	_
+2	uan	uan	CCONJ	_	_	3	cc	_	_
+3	tzahtzitoc	tzahtzi	VERB	_	_	1	conj	_	_
+4	quemeh	quemeh	ADV	_	_	7	advmod	_	_
+5	cuac	cuac	ADV	_	_	7	advmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	cahsic	ahsi	VERB	_	_	3	advcl	_	_
+8	in	in	DET	_	_	10	det	_	_
+9	cualli	cualli	ADJ	_	_	10	amod	_	_
+10	tlacatzintli	tlacatl	NOUN	_	_	7	nsubj	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:56
+# text = in cualli tlacatzintli o motlasohcamat inauac in cocoyotzin .
+# text[spa] = el buen hombre le dio las gracias al buen coyotito.
+1	in	in	DET	_	_	3	det	_	_
+2	cualli	cualli	ADJ	_	_	3	amod	_	_
+3	tlacatzintli	tlacatl	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	motlasohcamat	tlasohcamati	VERB	_	_	0	root	_	_
+6	inauac	nauac	NOUN	_	_	5	obl	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	cocoyotzin	coyotl	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:57
+# text = axan cualli cocoyotzin tiaueh sanseccan nochan .
+# text[spa] = --ahora, buen coyotito, vamos juntos a mi casa.
+1	axan	axan	ADV	_	_	4	advmod	_	_
+2	cualli	cualli	ADJ	_	_	3	amod	_	_
+3	cocoyotzin	coyotl	NOUN	_	_	4	vocative	_	_
+4	tiaueh	yaui	VERB	_	_	0	root	_	_
+5	sanseccan	sanseccan	ADV	_	_	4	advmod	_	_
+6	nochan	chantli	NOUN	_	_	4	obl	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:58
+# text = tlen ticchiuatiueh ?
+# text[spa] = --??a hacer qu?
+1	tlen	tlenoh	PRON	_	_	2	obj	_	_
+2	ticchiuatiueh	chiua	VERB	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:59
+# text = nicnequi nimitzintlacolis sequi piomeh .
+# text[spa] = --quiero regalarte algunos pollos.
+1	nicnequi	nequi	VERB	_	_	0	root	_	_
+2	nimitzintlacolis	tlacolia	VERB	_	_	1	xcomp	_	_
+3	sequi	sequi	DET	_	_	4	det	_	_
+4	piomeh	piotl	NOUN	_	_	2	obj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:60
+# text = amo , xiccaua , in neh niah ic nican .
+# text[spa] = --no, djalo; yo me voy por aqu¡.
+1	amo	amo	ADV	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	xiccaua	caua	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	neh	nehuatl	PRON	_	_	7	nsubj	_	_
+7	niah	yaui	VERB	_	_	3	parataxis	_	_
+8	ic	ic	ADP	_	_	9	case	_	_
+9	nican	nican	ADV	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:61
+# text = amo , tiaueh .
+# text[spa] = --!!no, vamos!
+1	amo	amo	ADV	_	_	3	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	tiaueh	yaui	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:62
+# text = xiquitta y o tlayoac , mejor tla ticnequi tinechintlacolis cualcan ihsih xinechinuiquili itech in neca tlalmonton .
+# text[spa] = --mira, ahora ya es tarde; es mejor, si quieres regal rmelos, que ma€ana temprano me los lleves sobre ese mont¡culo;
+1	xiquitta	itta	NOUN	_	_	0	root	_	_
+2	y	y	ADV	_	_	4	advmod	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	tlayoac	tlayoa	VERB	_	_	1	ccomp	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	mejor	mejor	ADJ	_	_	9	advmod	_	_
+7	tla	tla	SCONJ	_	_	8	mark	_	_
+8	ticnequi	nequi	VERB	_	_	9	advcl	_	_
+9	tinechintlacolis	tlacolia	VERB	_	_	1	parataxis	_	_
+10	cualcan	cualcan	ADV	_	_	9	advmod	_	_
+11	ihsih	ihsih	ADV	_	_	9	advmod	_	_
+12	xinechinuiquili	uiquilia	VERB	_	_	9	parataxis	_	_
+13	itech	tech	NOUN	_	_	12	obl	_	_
+14	in	in	DET	_	_	16	det	_	_
+15	neca	neca	DET	_	_	16	det	_	_
+16	tlalmonton	tlalmonton	NOUN	_	_	13	nmod	_	_
+17	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:63
+# text = nimitzualchias ihsih cuac ayamo quisa in tonaltzin .
+# text[spa] = te esperar muy de ma€ana; cuando a£n no sale el sol.
+1	nimitzualchias	chia	VERB	_	_	0	root	_	_
+2	ihsih	ihsih	ADV	_	_	1	advmod	_	_
+3	cuac	cuac	SCONJ	_	_	5	mark	_	_
+4	ayamo	ayamo	ADV	_	_	5	advmod	_	_
+5	quisa	quisa	VERB	_	_	1	advcl	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	tonaltzin	tonal	NOUN	_	_	5	nsubj	_	_
+8	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:64
+# text = cuac quimacas macuil horah ompa ties ihcon timocauah .
+# text[spa] = al dar las cinco ya estar s ah¡.  as¡ quedamos.
+1	cuac	cuac	ADV	_	_	2	advmod	_	_
+2	quimacas	maca	VERB	_	_	5	advcl	_	_
+3	macuil	macuil	NOUN	_	_	4	nmod	_	_
+4	horah	horah	NOUN	_	_	2	obj	_	_
+5	ompa	ompa	ADV	_	_	0	root	_	_
+6	ties	catqui	AUX	_	_	5	cop	_	_
+7	ihcon	ihcon	ADV	_	_	8	advmod	_	_
+8	timocauah	caua	VERB	_	_	5	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:65
+# text = amo , amo tiuitz uan ticchiuas niualmocuepas san ihqui .
+# text[spa] = --no, no vendr s y me haces regresar en balde.
+1	amo	amo	INTJ	_	_	4	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	amo	amo	ADV	_	_	4	advmod	_	_
+4	tiuitz	uitz	VERB	_	_	0	root	_	_
+5	uan	uan	CCONJ	_	_	6	cc	_	_
+6	ticchiuas	chiua	VERB	_	_	4	conj	_	_
+7	niualmocuepas	cuepa	VERB	_	_	6	ccomp	_	_
+8	san	san	ADV	_	_	9	advmod	_	_
+9	ihqui	ihqui	ADV	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:66
+# text = amo , nican nimitzchias cualli tlacatzintli .
+# text[spa] = --no, aqu¡ te esperar, buen hombre.
+1	amo	amo	INTJ	_	_	4	discourse	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	nican	nican	ADV	_	_	4	advmod	_	_
+4	nimitzchias	chia	VERB	_	_	0	root	_	_
+5	cualli	cualli	ADJ	_	_	6	amod	_	_
+6	tlacatzintli	tlacatl	NOUN	_	_	4	vocative	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:67
+# text = ihquin o mocahqueh in coyotl uan tlacatl .
+# text[spa] = en esto convinieron el coyote y el hombre.
+1	ihquin	ihquin	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	mocahqueh	caua	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	coyotl	coyotl	NOUN	_	_	3	nsubj	_	_
+6	uan	uan	CCONJ	_	_	7	cc	_	_
+7	tlacatl	tlacatl	NOUN	_	_	5	conj	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:68
+# text = in cualli coyotzin o yah ic sacamanal uan o yah uan cualli tlacatl nihqui o quiquitzquih in ioh .
+# text[spa] = el buen coyote tom¢ por el llano y se fue; el buen hombre tambin cogi¢ su camino.
+1	in	in	DET	_	_	3	det	_	_
+2	cualli	cualli	NOUN	_	_	3	amod	_	_
+3	coyotzin	coyotl	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	yah	yaui	VERB	_	_	0	root	_	_
+6	ic	ic	ADP	_	_	7	case	_	_
+7	sacamanal	sacamanal	NOUN	_	_	5	obl	_	_
+8	uan	uan	CCONJ	_	_	10	cc	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	yah	yaui	VERB	_	_	5	conj	_	_
+11	uan	uan	CCONJ	_	_	13	cc	_	_
+12	cualli	cualli	ADJ	_	_	13	amod	_	_
+13	tlacatl	tlacatl	NOUN	_	_	16	nsubj	_	_
+14	nihqui	nihqui	ADV	_	_	16	advmod	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	quiquitzquih	quitzquia	VERB	_	_	5	conj	_	_
+17	in	in	DET	_	_	18	det	_	_
+18	ioh	ohtli	NOUN	_	_	16	obj	_	_
+19	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:69
+# text = ihcuac o ahsito ichan , san o tlahtlachiaya ;
+# text[spa] = cuando lleg¢ a su casa no m s ve¡a atontado.
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ahsito	ahsi	VERB	_	_	8	advcl	_	_
+4	ichan	chantli	NOUN	_	_	3	obl	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	san	san	ADV	_	_	8	advmod	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	tlahtlachiaya	tlachia	VERB	_	_	0	root	_	_
+9	;	;	PUNCT	_	_	8	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:70
+# text = quilia in isoah .
+# text[spa] = le dice su mujer:
+1	quilia	ilia	VERB	_	_	0	root	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	isoah	isoah	NOUN	_	_	1	nsubj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:71
+# text = tlen mitzpanoa ? san titlahtlachia .
+# text[spa] = --??qu te pasa?  nada m s est s mirando atontado.
+1	tlen	tlenoh	PRON	_	_	2	nsubj	_	_
+2	mitzpanoa	panoa	VERB	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+4	san	san	ADV	_	_	5	advmod	_	_
+5	titlahtlachia	tlachia	VERB	_	_	2	parataxis	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:72
+# text = tos o peh quitlapuia tlen o quipanoc .
+# text[spa] = entonces comenz¢ a contarle lo que le hab¡a pasado:
+1	tos	entonces	ADV	_	_	4	advmod	_	_
+2	o	o	AUX	_	_	4	aux	_	_
+3	peh	peua	AUX	_	_	4	aux	_	_
+4	quitlapuia	tlapuia	VERB	_	_	0	root	_	_
+5	tlen	tlenoh	PRON	_	_	7	obj	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quipanoc	panoa	VERB	_	_	4	ccomp	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:73
+# text = o nimonamic inauac se coatl o quinequia nechcuas .
+# text[spa] = --me encontr con una culebra que quer¡a comerme.
+1	o	o	AUX	_	_	2	aux	_	_
+2	nimonamic	namiqui	VERB	_	_	0	root	_	_
+3	inauac	nauac	NOUN	_	_	2	obj	_	_
+4	se	se	DET	_	_	5	det	_	_
+5	coatl	coatl	NOUN	_	_	3	nmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quinequia	nequi	VERB	_	_	5	acl	_	_
+8	nechcuas	cua	VERB	_	_	7	xcomp	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:74
+# text = ihcuac o quicac o momahtih in soatl .
+# text[spa] = al o¡rlo se asust¢ la mujer:
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quicac	caqui	VERB	_	_	5	advcl	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	momahtih	mahtia	VERB	_	_	0	root	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	soatl	soatl	NOUN	_	_	5	nsubj	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:75
+# text = y o nimitziliaya amo tiquisas .
+# text[spa] = --ya te dec¡a que no salieses.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	nimitziliaya	ilia	VERB	_	_	0	root	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	tiquisas	quisa	VERB	_	_	3	ccomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:76
+# text = amo o tinechcac uan tlamo amo o timomahtisquia , y o tiquittac quen ihcon o quimonequiltih in toteotzin amo itlah o mitzpanoc nic in toteotzin o mitzualtitlanilih non yoyolcatzin para mitzpaleuis ,
+# text[spa] = no me o¡ste, si no, no te hubieses espantado; ya viste que por la voluntad de dios no te pas¢ nada; porque dios te mand¢ a ese animalito para que te ayudase.
+1	amo	amo	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	tinechcac	caqui	VERB	_	_	0	root	_	_
+4	uan	uan	CCONJ	_	_	8	cc	_	_
+5	tlamo	tlamo	SCONJ	_	_	8	mark	_	_
+6	amo	amo	ADV	_	_	8	advmod	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	timomahtisquia	mahtia	VERB	_	_	3	advcl	_	_
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	y	ya	ADV	_	_	12	advmod	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	tiquittac	itta	VERB	_	_	3	parataxis	_	_
+13	quen	quen	ADV	_	_	22	mark	_	_
+14	ihcon	ihcon	ADV	_	_	16	advmod	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	quimonequiltih	nequiltia	VERB	_	_	22	advcl	_	_
+17	in	in	DET	_	_	18	det	_	_
+18	toteotzin	teotl	NOUN	_	_	16	obj	_	_
+19	amo	amo	ADV	_	_	22	advmod	_	_
+20	itlah	itlah	PRON	_	_	22	nsubj	_	_
+21	o	o	AUX	_	_	22	aux	_	_
+22	mitzpanoc	panoa	VERB	_	_	12	ccomp	_	_
+23	nic	nic	SCONJ	_	_	27	mark	_	_
+24	in	in	DET	_	_	25	det	_	_
+25	toteotzin	teotl	NOUN	_	_	27	nsubj	_	_
+26	o	o	AUX	_	_	27	aux	_	_
+27	mitzualtitlanilih	titlanilia	VERB	_	_	22	advcl	_	_
+28	non	non	DET	_	_	29	det	_	_
+29	yoyolcatzin	yoyolcatl	NOUN	_	_	27	obj	_	_
+30	para	para	ADP	_	_	31	mark	_	_
+31	mitzpaleuis	paleuia	VERB	_	_	27	advcl	_	_
+32	,	,	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:77
+# text = uan tlamo in neh amo o nicmatisquia tlen o mitzpanoc , uan amo o tiualmocuepasquia tochan .
+# text[spa] = de otro modo, yo no hubiera sabido lo que te hab¡a pasado; no habr¡as regresado a casa.
+1	uan	uan	CCONJ	_	_	7	cc	_	_
+2	tlamo	tlamo	SCONJ	_	_	7	advcl	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	neh	nehuatl	PRON	_	_	7	nsubj	_	_
+5	amo	amo	ADV	_	_	7	advmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	nicmatisquia	mati	VERB	_	_	0	root	_	_
+8	tlen	tlenoh	PRON	_	_	10	obj	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	mitzpanoc	panoa	VERB	_	_	7	ccomp	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	uan	uan	CCONJ	_	_	15	cc	_	_
+13	amo	amo	ADV	_	_	15	advmod	_	_
+14	o	o	AUX	_	_	15	aux	_	_
+15	tiualmocuepasquia	cuepa	VERB	_	_	7	conj	_	_
+16	tochan	chantli	NOUN	_	_	15	obl	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:78
+# text = axan o nicualicasquia in cualli cocoyotzin .
+# text[spa] = --ahora iba a traer al buen coyotito.
+1	axan	axan	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	nicualicasquia	ualica	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	cualli	cualli	ADJ	_	_	6	amod	_	_
+6	cocoyotzin	coyotl	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:79
+# text = macamo toteotzin o quintlamisquia in nopiouan .
+# text[spa] = --!!dios no lo quiera!  acabar¡a con mis pollos.
+1	macamo	macamo	ADV	_	_	2	advmod	_	_
+2	toteotzin	teotl	NOUN	_	_	0	root	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quintlamisquia	tlami	VERB	_	_	2	parataxis	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	nopiouan	piotl	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:80
+# text = amo o quinec tlen o niquiliaya , o quinpehpenasquia yeh tlen o quinequisquia in ocachi cuahcualli piomeh uan tohtomauaqueh .
+# text[spa] = --no accedi¢ a lo que le dec¡a que escogiese l mismo los que quisiese entre los pollos mejores y m s gordos.
+1	amo	amo	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quinec	nequi	VERB	_	_	0	root	_	_
+4	tlen	tlenoh	PRON	_	_	6	obj	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	niquiliaya	ilia	VERB	_	_	3	ccomp	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quinpehpenasquia	pehpena	VERB	_	_	3	parataxis	_	_
+10	yeh	yehuatl	PRON	_	_	9	nsubj	_	_
+11	tlen	tlenoh	PRON	_	_	13	obj	_	_
+12	o	o	AUX	_	_	13	aux	_	_
+13	quinequisquia	nequi	VERB	_	_	9	ccomp	_	_
+14	in	in	DET	_	_	17	det	_	_
+15	ocachi	ocachi	ADV	_	_	16	advmod	_	_
+16	cuahcualli	cualli	ADJ	_	_	17	amod	_	_
+17	piomeh	piotl	NOUN	_	_	13	appos	_	_
+18	uan	uan	CCONJ	_	_	19	cc	_	_
+19	tohtomauaqueh	tomauac	ADJ	_	_	17	conj	_	_
+20	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:81
+# text = cualcan o nimocah inauac non yoyolcatzin , nicuiquilis sequi piomeh .
+# text[spa] = ma€ana, muy temprano, qued con ese animalito en llevarle algunos pollos.
+1	cualcan	cualcan	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	nimocah	caua	VERB	_	_	0	root	_	_
+4	inauac	nauac	NOUN	_	_	3	obl	_	_
+5	non	non	DET	_	_	6	det	_	_
+6	yoyolcatzin	yoyolcatl	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	nicuiquilis	uiquilia	VERB	_	_	3	parataxis	_	_
+9	sequi	sequi	DET	_	_	10	det	_	_
+10	piomeh	piotl	NOUN	_	_	8	obj	_	_
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:82
+# text = xiquinpehpena sequi piomeh de nonque cuahcualli uan cualcan yonimitzilih niquinuiquilis .
+# text[spa] = escoge unos pollos buenos pues ma€ana, ya te dije, se los llevar.
+1	xiquinpehpena	pehpena	NOUN	_	_	0	root	_	_
+2	sequi	sequi	PRON	_	_	3	det	_	_
+3	piomeh	piotl	NOUN	_	_	1	obj	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	nonque	non	DET	_	_	6	det	_	_
+6	cuahcualli	cualli	ADJ	_	_	3	nmod	_	_
+7	uan	uan	CCONJ	_	_	9	cc	_	_
+8	cualcan	cualcan	ADV	_	_	10	advmod	_	_
+9	yonimitzilih	ilia	VERB	_	_	1	conj	_	_
+10	niquinuiquilis	uiquilia	VERB	_	_	9	ccomp	_	_
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:83
+# text = cualcan amo tias canah .
+# text[spa] = --ma€ana no ir s a ning£n lado.
+1	cualcan	cualcan	ADV	_	_	3	advmod	_	_
+2	amo	amo	ADV	_	_	3	advmod	_	_
+3	tias	yaui	VERB	_	_	0	root	_	_
+4	canah	canah	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:84
+# text = amo nicnequi itlah ticuiquilis non pitzoyolcatl nion se pio .
+# text[spa] = no quiero que le lleves nada a ese maldito animal: ni un solo pollo.
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	nicnequi	nequi	VERB	_	_	0	root	_	_
+3	itlah	itlah	PRON	_	_	4	obj	_	_
+4	ticuiquilis	uiquilia	VERB	_	_	2	ccomp	_	_
+5	non	non	DET	_	_	6	det	_	_
+6	pitzoyolcatl	pitzoyolcatl	NOUN	_	_	4	iobj	_	_
+7	nion	nion	ADV	_	_	9	advmod	_	_
+8	se	se	DET	_	_	9	det	_	_
+9	pio	piotl	NOUN	_	_	2	parataxis	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:85
+# text = y o niquilnamic tlen ticchiuas .
+# text[spa] = ya se me ocurri¢ qu es lo que debes hacer.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	niquilnamic	ilnamiqui	VERB	_	_	0	root	_	_
+4	tlen	tlenoh	PRON	_	_	5	obj	_	_
+5	ticchiuas	chiua	VERB	_	_	3	ccomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:86
+# text = tlenonon ? xinechili .
+# text[spa] = --??qu?  d¡melo.
+1	tlenonon	tlenoh	PRON	_	_	0	root	_	_
+2	?	?	PUNCT	_	_	1	punct	_	_
+3	xinechili	ilia	VERB	_	_	1	parataxis	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:87
+# text = amo xie xaxnohtic , tlen yes ?
+# text[spa] = --no seas tonto, ??qu ha de ser?
+1	amo	amo	ADV	_	_	3	advmod	_	_
+2	xie	catqui	AUX	_	_	3	cop	_	_
+3	xaxnohtic	xaxnohtic	ADJ	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	tlen	tlenoh	PRON	_	_	3	parataxis	_	_
+6	yes	catqui	AUX	_	_	5	cop	_	_
+7	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:88
+# text = xiquincaua nonque piomeh uan xiquinuiquili in necate itzcuinmeh den ocachi tecuah .
+# text[spa] = deja los pollos y llvale esos perros que son de los m s mordelones;
+1	xiquincaua	caua	VERB	_	_	0	root	_	_
+2	nonque	non	DET	_	_	3	det	_	_
+3	piomeh	piotl	NOUN	_	_	1	obj	_	_
+4	uan	uan	CCONJ	_	_	5	cc	_	_
+5	xiquinuiquili	uiquilia	VERB	_	_	1	conj	_	_
+6	in	in	DET	_	_	8	det	_	_
+7	necate	neca	DET	_	_	8	det	_	_
+8	itzcuinmeh	itzcuintli	NOUN	_	_	5	obj	_	_
+9	den	den	ADP	_	_	11	mark	_	_
+10	ocachi	ocachi	ADV	_	_	11	advmod	_	_
+11	tecuah	cua	VERB	_	_	8	acl:relcl	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:89
+# text = xiquintlali ihtec se coxtal , uan ihcuac tahsis can mitzualchia amo cosa ximopacho inauac uan ixueuehcatzin tiquincahcauilia .
+# text[spa] = ponlos dentro del saco de pita en en cuanto llegues a donde te espera, sin acercarte a l demasiado, desde lejos, se los sueltas.
+1	xiquintlali	tlalia	VERB	_	_	0	root	_	_
+2	ihtec	ihtec	NOUN	_	_	1	obl	_	_
+3	se	se	DET	_	_	4	det	_	_
+4	coxtal	coxtal	NOUN	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	uan	uan	CCONJ	_	_	13	cc	_	_
+7	ihcuac	ihcuac	SCONJ	_	_	8	mark	_	_
+8	tahsis	ahsi	VERB	_	_	13	advcl	_	_
+9	can	can	ADV	_	_	10	advmod	_	_
+10	mitzualchia	chia	VERB	_	_	8	advcl	_	_
+11	amo	amo	ADV	_	_	13	advmod	_	_
+12	cosa	cosa	ADV	_	_	13	advmod	_	_
+13	ximopacho	pachoa	VERB	_	_	1	conj	_	_
+14	inauac	nauac	NOUN	_	_	13	obl	_	_
+15	uan	uan	CCONJ	_	_	17	cc	_	_
+16	ixueuehcatzin	ixueuehcat	ADV	_	_	17	advmod	_	_
+17	tiquincahcauilia	cahcauilia	VERB	_	_	1	conj	_	_
+18	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:90
+# text = tlen y o tiquihtoh nosoah amo cualli cah .
+# text[spa] = --lo que has discurrido, mujer, no est  bien.
+1	tlen	tlenoh	PRON	_	_	4	obj	_	_
+2	y	ya	ADV	_	_	4	advmod	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	tiquihtoh	ihtoa	VERB	_	_	7	csubj	_	_
+5	nosoah	soatl	NOUN	_	_	4	vocative	_	_
+6	amo	amo	ADV	_	_	7	advmod	_	_
+7	cualli	cualli	ADJ	_	_	0	root	_	_
+8	cah	catqui	AUX	_	_	7	cop	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:91
+# text = quen ticnequi nicuiquilis tlen amo cualli nicuiquilis o niccayauasquia .
+# text[spa] = ??c¢mo quieres que le lleve lo que no debo llevarle? lo enga€ar¡a.
+1	quen	quen	ADV	_	_	2	advmod	_	_
+2	ticnequi	nequi	VERB	_	_	0	root	_	_
+3	nicuiquilis	cuiquili	VERB	_	_	2	ccomp	_	_
+4	tlen	tlenoh	PRON	_	_	7	obj	_	_
+5	amo	amo	ADV	_	_	7	advmod	_	_
+6	cualli	cualli	ADV	_	_	7	advmod	_	_
+7	nicuiquilis	uiquilia	VERB	_	_	3	ccomp	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	niccayauasquia	cayaua	VERB	_	_	2	ccomp	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:92
+# text = tleca in amo ticualli soatl ?
+# text[spa] = ??por qu no eres buena, mujer?
+1	tleca	tleca	ADV	_	_	0	root	_	_
+2	in	in	PRON	_	_	4	nsubj	_	_
+3	amo	amo	ADV	_	_	4	advmod	_	_
+4	ticualli	cualli	ADJ	_	_	1	csubj	_	_
+5	soatl	soatl	NOUN	_	_	4	obj	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:93
+# text = niquinuiquilis in piomeh .
+# text[spa] = voy a llevarle los pollos.
+1	niquinuiquilis	uiquilia	VERB	_	_	0	root	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	piomeh	piotl	NOUN	_	_	1	obj	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:94
+# text = y o nimitzilih amo , uan tla tiquinuiquilis nicualanis monauac uan niccenchiuas .
+# text[spa] = --ya te dije que no, y si se los llevas, me enfadar contigo, y armar la gorda.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	nimitzilih	ilia	VERB	_	_	0	root	_	_
+4	amo	amo	ADV	_	_	3	discourse	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	uan	uan	CCONJ	_	_	9	cc	_	_
+7	tla	tla	SCONJ	_	_	8	mark	_	_
+8	tiquinuiquilis	uiquilia	VERB	_	_	9	advcl	_	_
+9	nicualanis	cualani	VERB	_	_	3	conj	_	_
+10	monauac	nauac	NOUN	_	_	9	obl	_	_
+11	uan	uan	CCONJ	_	_	12	cc	_	_
+12	niccenchiuas	chiua	VERB	_	_	9	conj	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:95
+# text = in tlacatl amo o quinec o quicualanih in isoah uan o quichih tlen o quitequitiaya .
+# text[spa] = el hombre no quiso disgustar a su mujer e hizo lo que ordenaba.
+1	in	in	DET	_	_	2	det	_	_
+2	tlacatl	tlacatl	NOUN	_	_	5	nsubj	_	_
+3	amo	amo	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quinec	nequi	VERB	_	_	0	root	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quicualanih	cualani	VERB	_	_	5	ccomp	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	isoah	soatl	NOUN	_	_	7	nsubj	_	_
+10	uan	uan	CCONJ	_	_	12	cc	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	quichih	chiua	VERB	_	_	5	conj	_	_
+13	tlen	tlenoh	PRON	_	_	15	obj	_	_
+14	o	o	AUX	_	_	15	aux	_	_
+15	quitequitiaya	tequitia	VERB	_	_	12	advcl	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:96
+# text = ipan ocse tonal o quincalaquih in chichimeh ihtec in coxtal uan o quis ihsih .
+# text[spa] = al d¡a siguiente, meti¢ los perros en el costal de pita y sali¢ muy temprano.
+1	ipan	pan	NOUN	_	_	5	obl	_	_
+2	ocse	ocse	DET	_	_	3	det	_	_
+3	tonal	tonal	NOUN	_	_	1	nmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quincalaquih	calaquia	VERB	_	_	0	root	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	chichimeh	chichi	NOUN	_	_	5	obj	_	_
+8	ihtec	ihtec	NOUN	_	_	5	obl	_	_
+9	in	in	DET	_	_	10	det	_	_
+10	coxtal	coxtal	NOUN	_	_	8	nmod	_	_
+11	uan	uan	CCONJ	_	_	13	cc	_	_
+12	o	o	AUX	_	_	13	aux	_	_
+13	quis	quisa	VERB	_	_	5	conj	_	_
+14	ihsih	ihsih	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:97
+# text = o quinmemeh in itzcuinmeh inpatcan piomeh den o quinmacac in ocse tonal .
+# text[spa] = se carg¢ los perros en lugar de los pollos que hab¡a ofrecido el d¡a anterior.
+1	o	o	AUX	_	_	2	aux	_	_
+2	quinmemeh	meme	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	itzcuinmeh	itzcuintli	NOUN	_	_	2	nsubj	_	_
+5	inpatcan	patcan	NOUN	_	_	2	obl	_	_
+6	piomeh	piotl	NOUN	_	_	5	nmod	_	_
+7	den	den	PRON	_	_	9	obj	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quinmacac	maca	VERB	_	_	6	acl	_	_
+10	in	in	DET	_	_	12	det	_	_
+11	ocse	ocse	DET	_	_	12	det	_	_
+12	tonal	tonal	NOUN	_	_	9	obl	_	_
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:98
+# text = in tlacatl o quinequia amo ompa yes in coyotl .
+# text[spa] = el hombre deseaba que no estuviese ah¡ el coyote.
+1	in	in	DET	_	_	2	det	_	_
+2	tlacatl	tlacatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quinequia	nequi	VERB	_	_	0	root	_	_
+5	amo	amo	ADV	_	_	6	advmod	_	_
+6	ompa	ompa	ADV	_	_	4	ccomp	_	_
+7	yes	catqui	AUX	_	_	6	cop	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	coyotl	coyotl	NOUN	_	_	6	nsubj	_	_
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:99
+# text = y o ahsia in tlacatl uan o moquechtilanaya , para quittas cox y omp o catca in coyotl .
+# text[spa] = ya iba llegando el hombre, y estiraba el pescuezo para ver si ya estaba ah¡ el coyote.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ahsia	ahsi	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	tlacatl	tlacatl	NOUN	_	_	3	nsubj	_	_
+6	uan	uan	CCONJ	_	_	8	cc	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	moquechtilanaya	quechtilana	VERB	_	_	3	conj	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	para	para	SCONJ	_	_	11	mark	_	_
+11	quittas	itta	VERB	_	_	8	advcl	_	_
+12	cox	cox	SCONJ	_	_	14	mark	_	_
+13	y	ya	ADV	_	_	14	advmod	_	_
+14	omp	ompa	ADV	_	_	11	ccomp	_	_
+15	o	o	AUX	_	_	14	aux	_	_
+16	catca	catqui	AUX	_	_	14	cop	_	_
+17	in	in	DET	_	_	18	det	_	_
+18	coyotl	coyotl	NOUN	_	_	14	nsubj	_	_
+19	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:100
+# text = san oc uehca y o quittac .
+# text[spa] = lo descubri¢ desde muy lejos.
+1	san	san	ADV	_	_	3	advmod	_	_
+2	oc	oc	ADV	_	_	3	advmod	_	_
+3	uehca	uehca	ADV	_	_	6	advmod	_	_
+4	y	ya	ADV	_	_	6	advmod	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	quittac	itta	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:101
+# text = in coyotl o paquia ;
+# text[spa] = el coyote, muy contento,
+1	in	in	DET	_	_	2	det	_	_
+2	coyotl	coyotl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	paquia	paqui	VERB	_	_	0	root	_	_
+5	;	;	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:102
+# text = o yaya uan o allaya , quinchia in piomeh .
+# text[spa] =  iba y ven¡a, esperando sus pollos.
+1	o	o	AUX	_	_	2	aux	_	_
+2	yaya	yaui	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	5	cc	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	allaya	ualla	VERB	_	_	2	conj	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	quinchia	chia	VERB	_	_	2	parataxis	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	piomeh	piotl	NOUN	_	_	7	obj	_	_
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:103
+# text = o ahsito icuacpac in tlalmonton , can y o cualchiaya in cocoyotzin .
+# text[spa] =  lleg¢ arriba del mont¡culo donde ya lo esperaba el coyotito.
+1	o	o	AUX	_	_	2	aux	_	_
+2	ahsito	ahsi	VERB	_	_	0	root	_	_
+3	icuacpac	cuacpac	NOUN	_	_	2	obl	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	tlalmonton	tlalmonton	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	can	can	ADV	_	_	10	advmod	_	_
+8	y	ya	ADV	_	_	10	advmod	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	cualchiaya	chia	VERB	_	_	2	advcl	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	cocoyotzin	coyotl	NOUN	_	_	10	nsubj	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:104
+# text = nin o peh o uetzcaya de paquistli .
+# text[spa] = ste comenz¢ a re¡r muy contento. 
+1	nin	nin	PRON	_	_	3	nsubj	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	peh	peua	VERB	_	_	0	root	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	uetzcaya	uetzca	VERB	_	_	3	xcomp	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	paquistli	paquistli	NOUN	_	_	5	obl	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:105
+# text = cualli cocoyotzin o quilih in cualli tlacatzintli , y o niuallah , o nimitzinualiquilih in piomeh .
+# text[spa] = --buen coyotito --le dijo el hombre--, ya vine a traerte los pollos.
+1	cualli	cualli	ADJ	_	_	2	advmod	_	_
+2	cocoyotzin	coyotl	NOUN	_	_	4	parataxis	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quilih	ilia	VERB	_	_	0	root	_	_
+5	in	in	DET	_	_	7	det	_	_
+6	cualli	cualli	ADJ	_	_	7	amod	_	_
+7	tlacatzintli	tlacatl	NOUN	_	_	4	nsubj	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	y	ya	ADV	_	_	11	advmod	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	niuallah	ualla	VERB	_	_	4	parataxis	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	nimitzinualiquilih	ualiquilia	VERB	_	_	11	parataxis	_	_
+15	in	in	DET	_	_	16	det	_	_
+16	piomeh	piotl	NOUN	_	_	14	obj	_	_
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:106
+# text = axan xinechili quen ticnequi niquincahcauas , se uan se , o nochtin san seccan ?
+# text[spa] =  ahora dime: ??c¢mo quieres que los suelte?  ??uno a uno, o todos juntos?
+1	axan	axan	ADV	_	_	2	advmod	_	_
+2	xinechili	ilia	VERB	_	_	0	root	_	_
+3	quen	quen	ADV	_	_	4	mark	_	_
+4	ticnequi	nequi	VERB	_	_	2	ccomp	_	_
+5	niquincahcauas	cahcaua	VERB	_	_	4	ccomp	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	se	se	NUM	_	_	4	parataxis	_	_
+8	uan	uan	CCONJ	_	_	9	cc	_	_
+9	se	se	NUM	_	_	7	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	nochtin	nochi	PRON	_	_	7	conj	_	_
+13	san	san	ADV	_	_	14	advmod	_	_
+14	seccan	seccan	ADV	_	_	12	advmod	_	_
+15	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:107
+# text = amo nicnequi se uan se , ocachi cualli san seccan nochtin para nimauiltis innauac niquinmictihties .
+# text[spa] =  --que no sea uno a uno; es mejor que sea juntos, para yo me divierto caz ndolos. 
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	nicnequi	nequi	VERB	_	_	0	root	_	_
+3	se	se	PRON	_	_	2	obj	_	_
+4	uan	uan	CCONJ	_	_	5	cc	_	_
+5	se	se	NUM	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ocachi	ocachi	ADV	_	_	8	advmod	_	_
+8	cualli	cualli	ADJ	_	_	2	parataxis	_	_
+9	san	san	ADV	_	_	10	advmod	_	_
+10	seccan	seccan	ADV	_	_	11	advmod	_	_
+11	nochtin	nochi	PRON	_	_	8	nsubj	_	_
+12	para	para	ADP	_	_	13	case	_	_
+13	nimauiltis	mauiltia	VERB	_	_	11	advcl	_	_
+14	innauac	innauac	NOUN	_	_	13	obl	_	_
+15	niquinmictihties	mictihtie	VERB	_	_	13	advcl	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:108
+# text = in tlacatl o peh quitotoma in icamac in coxtal , uan in cocoyotzin y o motlalihca o mochiaya quisasqueh in piomeh ;
+# text[spa] = el hombre empez¢ a soltar la boca del costal; mientras, el coyotito se hab¡a sentado a esperar que saliesen los pollos,
+1	in	in	DET	_	_	2	det	_	_
+2	tlacatl	tlacatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	peh	peua	VERB	_	_	0	root	_	_
+5	quitotoma	totoma	VERB	_	_	4	xcomp	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	icamac	camac	NOUN	_	_	5	obj	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	coxtal	coxtal	NOUN	_	_	7	nmod	_	_
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	uan	uan	CCONJ	_	_	16	cc	_	_
+12	in	in	DET	_	_	13	det	_	_
+13	cocoyotzin	coyotl	NOUN	_	_	16	nsubj	_	_
+14	y	ya	ADV	_	_	16	advmod	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	motlalihca	tlalia	VERB	_	_	4	conj	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	mochiaya	chia	VERB	_	_	16	parataxis	_	_
+19	quisasqueh	quisa	VERB	_	_	18	ccomp	_	_
+20	in	in	DET	_	_	21	det	_	_
+21	piomeh	piotl	NOUN	_	_	19	nsubj	_	_
+22	;	;	PUNCT	_	_	19	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:109
+# text = o cmomacaya cuentah que y o quinmictiaya ;
+# text[spa] =  imagin ndose ya que los cazaba,
+1	o	o	AUX	_	_	2	aux	_	_
+2	cmomacaya	maca	VERB	_	_	0	root	_	_
+3	cuentah	cuentah	NOUN	_	_	2	obj	_	_
+4	que	que	SCONJ	_	_	7	mark	_	_
+5	y	ya	ADV	_	_	7	advmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quinmictiaya	mictia	VERB	_	_	2	advcl	_	_
+8	;	;	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:110
+# text = o cmachiliaya y o quinquitzquiaya .
+# text[spa] =  sent¡a que los cog¡a.
+1	o	o	AUX	_	_	2	aux	_	_
+2	cmachiliaya	machilia	VERB	_	_	0	root	_	_
+3	y	ya	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quinquitzquiaya	quitzquia	VERB	_	_	2	ccomp	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:111
+# text = uan nican ma motta o quincahcauilihtah in itzcuinmeh .
+# text[spa] =  !!y he aqu¡ que le fue soltando los perros! 
+1	uan	uan	CCONJ	_	_	4	cc	_	_
+2	nican	nican	ADV	_	_	4	advmod	_	_
+3	ma	ma	AUX	_	_	4	aux	_	_
+4	motta	itta	NOUN	_	_	0	root	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	quincahcauilihtah	cahcauilia	VERB	_	_	4	ccomp	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	itzcuinmeh	itzcuintli	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:112
+# text = de nonqueh quiuilanah in innacas uan amo o quinyequittac in coyotl ihcuac y o catcah ipan .
+# text[spa] = !!de esos que arrastran las orejas!  y apenas los vio el coyote, ya estaban sobre l.
+1	de	de	ADP	_	_	2	case	_	_
+2	nonqueh	non	PRON	_	_	0	root	_	_
+3	quiuilanah	uilana	VERB	_	_	2	acl	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	innacas	nacas	NOUN	_	_	3	obj	_	_
+6	uan	uan	CCONJ	_	_	9	cc	_	_
+7	amo	amo	ADV	_	_	9	advmod	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quinyequittac	itta	VERB	_	_	2	conj	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	coyotl	coyotl	NOUN	_	_	9	nsubj	_	_
+12	ihcuac	ihcuac	SCONJ	_	_	16	mark	_	_
+13	y	ya	ADV	_	_	16	advmod	_	_
+14	o	o	AUX	_	_	16	aux	_	_
+15	catcah	catqui	AUX	_	_	16	cop	_	_
+16	ipan	pan	NOUN	_	_	9	advcl	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:113
+# text = niman o momahtih uan nic o momahtih o peh mocuepa ;
+# text[spa] =  primero se asust¢, y a la vez que se asust¢, se revolvi¢
+1	niman	niman	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	momahtih	mahtia	VERB	_	_	0	root	_	_
+4	uan	uan	CCONJ	_	_	7	cc	_	_
+5	nic	nic	ADV	_	_	7	mark	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	momahtih	mahtia	VERB	_	_	10	advcl	_	_
+8	o	o	AUX	_	_	10	aux	_	_
+9	peh	peua	AUX	_	_	10	aux	_	_
+10	mocuepa	cuepa	VERB	_	_	3	conj	_	_
+11	;	;	PUNCT	_	_	10	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:114
+# text = nican uan ne o momictiaya innauac in itzcuinmeh .
+# text[spa] = 
+1	nican	nican	ADV	_	_	5	advmod	_	_
+2	uan	uan	CCONJ	_	_	3	cc	_	_
+3	ne	ne	ADV	_	_	1	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	momictiaya	mictia	VERB	_	_	0	root	_	_
+6	innauac	nauac	NOUN	_	_	5	obl	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	itzcuinmeh	itzcuintli	NOUN	_	_	6	nmod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:115
+# text = in chichimeh o quipapayachilihqueh in iomiouan den icxiuan uan yeh o quincuacuaya canic sa .
+# text[spa] = los perros le quebrantaron los huesos de las patas, mientras l los mord¡a por dondequiera,
+1	in	in	DET	_	_	2	det	_	_
+2	chichimeh	chichitl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quipapayachilihqueh	papayachilia	VERB	_	_	0	root	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	iomiouan	omiotl	NOUN	_	_	4	obj	_	_
+7	den	den	DET	_	_	8	nmod	_	_
+8	icxiuan	cxiuan	NOUN	_	_	6	nmod	_	_
+9	uan	uan	CCONJ	_	_	12	cc	_	_
+10	yeh	yehuatl	PRON	_	_	12	nsubj	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	quincuacuaya	cuacua	VERB	_	_	4	conj	_	_
+13	canic	canic	ADV	_	_	12	advmod	_	_
+14	sa	san	ADV	_	_	13	advmod	_	_
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:116
+# text = o quinmapapayatzaya uan o quinnacastzatzayatzaya .
+# text[spa] =  rompindoles las manos y desgarr ndoles las orejas. 
+1	o	o	AUX	_	_	2	aux	_	_
+2	quinmapapayatzaya	mapapayatza	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	5	cc	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quinnacastzatzayatzaya	nacastzatzayatza	VERB	_	_	2	conj	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:117
+# text = nochtin o motzatzayatzqueh .
+# text[spa] = mutuamente se lastimaron. 
+1	nochtin	nochi	PRON	_	_	3	nsubj	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	motzatzayatzqueh	tzatzayatza	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:118
+# text = ihcuac in coyotl o cmomacac cuentah quitlanisqueh , o choloh ic cuahtlal .
+# text[spa] = en cuanto el coyote comprendi¢ que iban a ganarle, huy¢ bosque adentro. 
+1	ihcuac	ihcuac	SCONJ	_	_	5	mark	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	coyotl	coyotl	NOUN	_	_	5	obj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	cmomacac	maca	VERB	_	_	10	advcl	_	_
+6	cuentah	cuentah	NOUN	_	_	5	obj	_	_
+7	quitlanisqueh	tlani	VERB	_	_	5	advcl	_	_
+8	,	,	PUNCT	_	_	5	punct	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	choloh	choloa	VERB	_	_	0	root	_	_
+11	ic	ic	ADP	_	_	12	case	_	_
+12	cuahtlal	cuahtlal	NOUN	_	_	10	obl	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:119
+# text = o moseseuihtaya uan o almocueptaya , o quittaya canic o mocah in tlacatl ica in itzcuinuan , uan o cmottiliaya can o ctzatzayatzqueh , uan o quihtoh , o chocaya uan o cmoluih o chocatoya :
+# text[spa] = se reposaba a trechos, volvindose a ver hacia donde hab¡a dejado al hombre con sus perros, y contemplando las heridas que le hab¡an causado, exclam¢ llorando: 
+1	o	o	AUX	_	_	2	aux	_	_
+2	moseseuihtaya	seseuia	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	5	cc	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	almocueptaya	cueptia	VERB	_	_	2	conj	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	quittaya	itta	VERB	_	_	2	parataxis	_	_
+9	canic	canic	ADV	_	_	11	advmod	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	mocah	caua	VERB	_	_	8	ccomp	_	_
+12	in	in	DET	_	_	13	det	_	_
+13	tlacatl	tlacatl	NOUN	_	_	11	nsubj	_	_
+14	ica	ca	NOUN	_	_	11	obl	_	_
+15	in	in	DET	_	_	16	det	_	_
+16	itzcuinuan	itzcuintli	NOUN	_	_	14	nmod	_	_
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	uan	uan	CCONJ	_	_	20	cc	_	_
+19	o	o	AUX	_	_	20	aux	_	_
+20	cmottiliaya	ittilia	VERB	_	_	8	conj	_	_
+21	can	can	ADV	_	_	23	advmod	_	_
+22	o	o	AUX	_	_	23	aux	_	_
+23	ctzatzayatzqueh	tzatzayatza	VERB	_	_	20	advcl	_	_
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	uan	uan	CCONJ	_	_	27	cc	_	_
+26	o	o	AUX	_	_	27	aux	_	_
+27	quihtoh	ihtoa	VERB	_	_	8	conj	_	_
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	o	o	AUX	_	_	30	aux	_	_
+30	chocaya	choca	VERB	_	_	27	parataxis	_	_
+31	uan	uan	CCONJ	_	_	33	cc	_	_
+32	o	o	AUX	_	_	33	aux	_	_
+33	cmoluih	ilia	VERB	_	_	30	conj	_	_
+34	o	o	AUX	_	_	35	aux	_	_
+35	chocatoya	choca	VERB	_	_	33	advcl	_	_
+36	:	:	PUNCT	_	_	35	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:120
+# text = ica non ic o quihtoaya in coatl , cuac itlah cualli se quichiua , ica itlah amo cualli se quitlaxtlauiliah
+# text[spa] = --gua, gua, gua, uu...  !!con raz¢n dec¡a la culebra que un bien con un mal se paga!
+1	ica	ca	NOUN	_	_	5	obl	_	_
+2	non	non	PRON	_	_	1	nmod	_	_
+3	ic	ic	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quihtoaya	ihtoa	VERB	_	_	0	root	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	coatl	coatl	NOUN	_	_	5	nsubj	_	_
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	cuac	cuac	SCONJ	_	_	13	mark	_	_
+10	itlah	itlah	PRON	_	_	13	obj	_	_
+11	cualli	cualli	ADJ	_	_	10	amod	_	_
+12	se	se	PRON	_	_	13	nsubj	_	_
+13	quichiua	chiua	VERB	_	_	20	advcl	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	ica	ca	NOUN	_	_	20	obl	_	_
+16	itlah	itlah	PRON	_	_	15	nmod	_	_
+17	amo	amo	ADV	_	_	18	advmod	_	_
+18	cualli	cualli	ADJ	_	_	16	amod	_	_
+19	se	se	PRON	_	_	20	nsubj	_	_
+20	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	5	parataxis	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:121
+# text = itenco se altepetl , itoca tepeostotlan , o cyeualohtoyah sequi tepemeh , o catca inauac se tlacomol can ochantiah miec yolcameh , sequi san o panoayah , uan in nonqueh nihqui ompa o catcah , quemeh coyomeh , tecosan , chignahtin , nexcoyomeh , se sorrah , cuahmistonmeh uan ocsequi yolcameh , ocpiayah se tlanauatihqui in nin ocatca yen leon .
+# text[spa] = a la orilla de un pueblo, llamado tepeoztotlan, al que rodeaban unos cerros, quedaba una ca€ada en donde viv¡an varios animales, entre los que de paso, se encontraban coyotes, tejones, cacomizcles, lobos, una zorra, gatos monteses y otros animales, que ten¡an por jefe un le¢n.
+1	itenco	tenco	NOUN	_	_	14	obl	_	_
+2	se	se	DET	_	_	3	det	_	_
+3	altepetl	altepetl	NOUN	_	_	1	nmod	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	itoca	toca	NOUN	_	_	6	nsubj	_	_
+6	tepeostotlan	tepeostotlan	PROPN	_	_	3	acl	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	cyeualohtoyah	yeualoa	VERB	_	_	3	acl	_	_
+10	sequi	sequi	DET	_	_	11	det	_	_
+11	tepemeh	tepetl	NOUN	_	_	9	obj	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	catca	catqui	VERB	_	_	0	root	_	_
+15	inauac	nauac	NOUN	_	_	14	obl	_	_
+16	se	se	DET	_	_	17	det	_	_
+17	tlacomol	tlacomol	NOUN	_	_	15	nmod	_	_
+18	can	can	ADV	_	_	19	advmod	_	_
+19	ochantiah	chantia	VERB	_	_	17	acl	_	_
+20	miec	miec	DET	_	_	21	det	_	_
+21	yolcameh	yolcatl	NOUN	_	_	19	nsubj	_	_
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	sequi	sequi	PRON	_	_	26	nsubj	_	_
+24	san	san	ADV	_	_	26	advmod	_	_
+25	o	o	AUX	_	_	26	aux	_	_
+26	panoayah	panoa	VERB	_	_	14	parataxis	_	_
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	uan	uan	CCONJ	_	_	34	cc	_	_
+29	in	in	DET	_	_	30	det	_	_
+30	nonqueh	non	PRON	_	_	34	nsubj	_	_
+31	nihqui	nihqui	ADV	_	_	34	advmod	_	_
+32	ompa	ompa	ADV	_	_	34	advmod	_	_
+33	o	o	AUX	_	_	34	aux	_	_
+34	catcah	catqui	VERB	_	_	26	conj	_	_
+35	,	,	PUNCT	_	_	34	punct	_	_
+36	quemeh	quemeh	ADP	_	_	37	case	_	_
+37	coyomeh	coyotl	NOUN	_	_	34	obl	_	_
+38	,	,	PUNCT	_	_	39	punct	_	_
+39	tecosan	tecosan	NOUN	_	_	37	conj	_	_
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	chignahtin	chignahtin	NOUN	_	_	37	conj	_	_
+42	,	,	PUNCT	_	_	43	punct	_	_
+43	nexcoyomeh	nexcoyotl	NOUN	_	_	37	conj	_	_
+44	,	,	PUNCT	_	_	43	punct	_	_
+45	se	se	DET	_	_	43	det	_	_
+46	sorrah	sorrah	NOUN	_	_	37	conj	_	_
+47	,	,	PUNCT	_	_	48	punct	_	_
+48	cuahmistonmeh	cuahmiston	NOUN	_	_	37	conj	_	_
+49	uan	uan	CCONJ	_	_	51	cc	_	_
+50	ocsequi	ocse	DET	_	_	51	det	_	_
+51	yolcameh	yolcatl	NOUN	_	_	37	conj	_	_
+52	,	,	PUNCT	_	_	53	punct	_	_
+53	ocpiayah	pia	VERB	_	_	51	acl	_	_
+54	se	se	DET	_	_	55	det	_	_
+55	tlanauatihqui	tlanauatihqui	NOUN	_	_	53	obj	_	_
+56	in	in	DET	_	_	57	det	_	_
+57	nin	nin	PRON	_	_	60	nsubj	_	_
+58	ocatca	catqui	AUX	_	_	60	cop	_	_
+59	yen	yen	DET	_	_	60	det	_	_
+60	leon	leon	NOUN	_	_	53	parataxis	_	_
+61	.	.	PUNCT	_	_	60	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:122
+# text = nochtin in ninque yolcameh , o catcah ichtecqueh .
+# text[spa] = todos estos animales ten¡an por ocupaci¢n el robo.
+1	nochtin	nochi	DET	_	_	4	det	_	_
+2	in	in	DET	_	_	4	det	_	_
+3	ninque	nin	DET	_	_	4	det	_	_
+4	yolcameh	yolcatl	NOUN	_	_	8	nsubj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	o	o	AUX	_	_	8	aux	_	_
+7	catcah	catqui	AUX	_	_	8	cop	_	_
+8	ichtecqueh	ichtecqui	VERB	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:123
+# text = in leon o quintequitiaya .
+# text[spa] = el le¢n les daba sus ¢rdenes.
+1	in	in	DET	_	_	2	det	_	_
+2	leon	leon	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quintequitiaya	tequitia	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:124
+# text = sequi o quintequitiaya yasqueh quincuitiueh ichcameh quemeh in nexcoyomeh , uan in coyomeh , o quimemeyah , o cualicayah lechonmeh , in chignahtin o quinichtequiah o quinualicayah piomeh , uan in tecosan brutah .
+# text[spa] = a unos les ordenaba que fueran a traer ovejas, como a los lobos, y los coyotes cargaban con cerdos, los cacomizcles con gallinas y el tej¢n con fruta.
+1	sequi	sequi	PRON	_	_	3	iobj	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quintequitiaya	tequitia	VERB	_	_	0	root	_	_
+4	yasqueh	yaui	VERB	_	_	3	advcl	_	_
+5	quincuitiueh	cui	VERB	_	_	4	conj	_	_
+6	ichcameh	ichcatl	NOUN	_	_	5	obj	_	_
+7	quemeh	quemeh	ADP	_	_	9	case	_	_
+8	in	in	DET	_	_	9	det	_	_
+9	nexcoyomeh	nexcoyotl	NOUN	_	_	3	obl	_	_
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	uan	uan	CCONJ	_	_	16	cc	_	_
+12	in	in	DET	_	_	13	det	_	_
+13	coyomeh	coyotl	NOUN	_	_	16	nsubj	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	quimemeyah	memeyia	VERB	_	_	3	conj	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	o	o	AUX	_	_	19	aux	_	_
+19	cualicayah	ualica	VERB	_	_	16	conj	_	_
+20	lechonmeh	lechon	NOUN	_	_	19	obj	_	_
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	in	in	DET	_	_	23	det	_	_
+23	chignahtin	chignahtin	NOUN	_	_	25	nsubj	_	_
+24	o	o	AUX	_	_	25	aux	_	_
+25	quinichtequiah	ichtequii	VERB	_	_	3	conj	_	_
+26	o	o	AUX	_	_	27	aux	_	_
+27	quinualicayah	ualica	VERB	_	_	25	conj	_	_
+28	piomeh	piotl	NOUN	_	_	27	obj	_	_
+29	,	,	PUNCT	_	_	33	punct	_	_
+30	uan	uan	CCONJ	_	_	33	cc	_	_
+31	in	in	DET	_	_	32	det	_	_
+32	tecosan	tecosan	NOUN	_	_	33	nsubj	_	_
+33	brutah	brutah	NOUN	_	_	3	conj	_	_
+34	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:125
+# text = ninque yolcameh o quitlasohtlayah in leon .
+# text[spa] = estos animales quer¡an al le¢n.
+1	ninque	nin	DET	_	_	2	det	_	_
+2	yolcameh	yolcatl	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quitlasohtlayah	tlasohtla	VERB	_	_	0	root	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	leon	leon	NOUN	_	_	4	obj	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:126
+# text = nic amo o quincuasquia o cuiquiliayah tlen o ccuaya , uan ihcon in neca yolcatl aco o tequitia , pos y o quimilihca , que aquin amo quitlacatocas oquicuasquia .
+# text[spa] = para que no se los comiera le llevaban de comer y as¡ aquel animal ya no trabajaba, pues ye les hab¡a dicho que a quien no obedeciere se lo comer¡a.
+1	nic	nic	SCONJ	_	_	4	mark	_	_
+2	amo	amo	ADV	_	_	4	advmod	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quincuasquia	cua	VERB	_	_	6	advcl	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	cuiquiliayah	uiquilia	VERB	_	_	0	root	_	_
+7	tlen	tlenoh	PRON	_	_	9	obj	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	ccuaya	cua	VERB	_	_	6	ccomp	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	uan	uan	CCONJ	_	_	23	cc	_	_
+12	ihcon	ihcon	ADV	_	_	23	advmod	_	_
+13	in	in	DET	_	_	15	det	_	_
+14	neca	neca	DET	_	_	15	det	_	_
+15	yolcatl	yolcatl	NOUN	_	_	23	iobj	_	_
+16	aco	aco	PRON	_	_	18	nsubj	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	tequitia	tequiti	VERB	_	_	15	acl	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	pos	pos	ADV	_	_	23	advmod	_	_
+21	y	ya	ADV	_	_	23	advmod	_	_
+22	o	o	AUX	_	_	23	aux	_	_
+23	quimilihca	ilia	VERB	_	_	6	conj	_	_
+24	,	,	PUNCT	_	_	23	punct	_	_
+25	que	que	SCONJ	_	_	29	mark	_	_
+26	aquin	aquin	PRON	_	_	29	nsubj	_	_
+27	amo	amo	ADV	_	_	28	advmod	_	_
+28	quitlacatocas	tlacatoca	VERB	_	_	26	acl	_	_
+29	oquicuasquia	cua	VERB	_	_	23	ccomp	_	_
+30	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:127
+# text = uan se de nonque tonaltin o quisqueh , quemeh sencah uan ipan in ohtli , ome chignahtin o moxelohqueh de n ocsequi , uan o yahqueh san seccan .
+# text[spa] = y uno de esos d¡as salieron como siempre y ya en el camino, dos cacomizcles se apartaron de los dem s y se fueron juntos.
+1	uan	uan	CCONJ	_	_	7	cc	_	_
+2	se	se	PRON	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	nonque	non	DET	_	_	5	det	_	_
+5	tonaltin	tonal	NOUN	_	_	2	nmod	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quisqueh	quisa	VERB	_	_	0	root	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	quemeh	quemeh	ADP	_	_	10	case	_	_
+10	sencah	sencah	ADV	_	_	7	advmod	_	_
+11	uan	uan	CCONJ	_	_	19	cc	_	_
+12	ipan	pan	NOUN	_	_	19	obl	_	_
+13	in	in	DET	_	_	14	det	_	_
+14	ohtli	ohtli	NOUN	_	_	12	nmod	_	_
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	ome	ome	NUM	_	_	17	nummod	_	_
+17	chignahtin	chignahtin	NOUN	_	_	19	nsubj	_	_
+18	o	o	AUX	_	_	19	aux	_	_
+19	moxelohqueh	xeloa	VERB	_	_	7	conj	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	n	in	DET	_	_	22	advmod	_	_
+22	ocsequi	ocse	PRON	_	_	19	obl	_	_
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	uan	uan	CCONJ	_	_	26	cc	_	_
+25	o	o	AUX	_	_	26	aux	_	_
+26	yahqueh	yaui	VERB	_	_	7	conj	_	_
+27	san	san	ADV	_	_	28	advmod	_	_
+28	seccan	seccan	ADV	_	_	26	advmod	_	_
+29	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:128
+# text = ninque yolcameh quemeh siempre o uetzcayah , uan semi auiltzoncuitlameh oyahqueh ic ipan in imohui , uan o pehqueh motlapuiah quemeh in iuan quimatih .
+# text[spa] = estos animales que siempre son muy risue€os y muy juguetones, siguieron su camino y empezaron a conversar en su idioma.
+1	ninque	nin	DET	_	_	2	det	_	_
+2	yolcameh	yolcatl	NOUN	_	_	11	nsubj	_	_
+3	quemeh	quemeh	ADV	_	_	6	mark	_	_
+4	siempre	siempre	ADV	_	_	6	advmod	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	uetzcayah	uetzca	VERB	_	_	11	advcl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	uan	uan	CCONJ	_	_	10	cc	_	_
+9	semi	semi	ADV	_	_	10	advmod	_	_
+10	auiltzoncuitlameh	auiltzoncuitatl	NOUN	_	_	6	conj	_	_
+11	oyahqueh	yaui	VERB	_	_	0	root	_	_
+12	ic	ic	ADP	_	_	13	case	_	_
+13	ipan	pan	NOUN	_	_	11	obl	_	_
+14	in	in	DET	_	_	15	det	_	_
+15	imohui	ohtli	NOUN	_	_	13	nmod	_	Usedtobe=imi¢hhui
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	uan	uan	CCONJ	_	_	19	cc	_	_
+18	o	o	AUX	_	_	19	aux	_	_
+19	pehqueh	peua	VERB	_	_	11	conj	_	_
+20	motlapuiah	tlapuia	VERB	_	_	19	xcomp	_	_
+21	quemeh	quemeh	ADV	_	_	24	advmod	_	_
+22	in	in	DET	_	_	23	det	_	_
+23	iuan	uan	NOUN	_	_	24	obl	_	_
+24	quimatih	mati	VERB	_	_	20	advcl	_	_
+25	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:129
+# text = o panoqueh canic o catcah miec cuahmeh de n o ctemacayah brutah uan tos ix axnohtic o quilih in ocse .
+# text[spa] = pasaban por donde hab¡a  rboles frutales, y entonces, el m s tonto le dice al otro:
+1	o	o	AUX	_	_	2	aux	_	_
+2	panoqueh	panoa	VERB	_	_	0	root	_	_
+3	canic	cani	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	catcah	catqui	VERB	_	_	2	advcl	_	_
+6	miec	miec	DET	_	_	7	det	_	_
+7	cuahmeh	cuauitl	NOUN	_	_	5	nsubj	_	_
+8	de	de	ADP	_	_	11	mark	_	_
+9	n	in	SCONJ	_	_	11	mark	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	ctemacayah	maca	VERB	_	_	7	acl	_	_
+12	brutah	brutah	NOUN	_	_	11	obj	_	_
+13	uan	uan	CCONJ	_	_	18	cc	_	_
+14	tos	entonces	ADV	_	_	18	advmod	_	_
+15	ix	ix	ADV	_	_	16	advmod	_	_
+16	axnohtic	axnohtic	NOUN	_	_	18	nsubj	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	quilih	ilia	VERB	_	_	2	conj	_	_
+19	in	in	DET	_	_	20	det	_	_
+20	ocse	ocse	PRON	_	_	18	iobj	_	_
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:130
+# text = oritah nican ticateh ticcuasqueh brutah .
+# text[spa] = --mientras estamos aqu¡, comeremos frutas.
+1	oritah	ora	NOUN	_	_	4	obl	_	_
+2	nican	nican	ADV	_	_	4	advcl	_	_
+3	ticateh	catqui	AUX	_	_	2	cop	_	_
+4	ticcuasqueh	cua	VERB	_	_	0	root	_	_
+5	brutah	brutah	NOUN	_	_	4	obj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:131
+# text = techmictisqueh .
+# text[spa] = --nos van a matar.
+1	techmictisqueh	mictia	VERB	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:132
+# text = amo quichiuilia .
+# text[spa] = --no le hace.
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	quichiuilia	chiuilia	VERB	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:133
+# text = de melauac amo ticneltoca ?
+# text[spa] = ??de veras, que no lo crees?
+1	de	de	ADP	_	_	2	case	_	_
+2	melauac	melauac	ADJ	_	_	4	advmod	_	_
+3	amo	amo	ADV	_	_	4	advmod	_	_
+4	ticneltoca	neltoca	VERB	_	_	0	root	_	_
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:134
+# text = uan aquin techmictis ?
+# text[spa] = --??pero quin nos ha de matar?
+1	uan	uan	CCONJ	_	_	3	cc	_	_
+2	aquin	aquin	PRON	_	_	3	nsubj	_	_
+3	techmictis	mictia	VERB	_	_	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:135
+# text = quimaca , iquin se quinequi se quicuis itlah , niman se ye quinequih quimictisqueh , uan tla se quimictiah se cuicatinemih ic altepetl , se quitlahtlantinemi tomin .
+# text[spa] = --a veces, apenas uno coger alguna cosa, luego lo quieren matar, y si lo matan a uno lo pasean en el pueblo pidiendo limosna.
+1	quimaca	maca	ADV	_	_	13	advmod	_	_
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	iquin	iquin	ADV	_	_	5	advmod	_	_
+4	se	se	PRON	_	_	5	nsubj	_	_
+5	quinequi	nequi	VERB	_	_	13	advcl	_	_
+6	se	se	PRON	_	_	7	nsubj	_	_
+7	quicuis	cui	VERB	_	_	5	xcomp	_	_
+8	itlah	itlah	PRON	_	_	7	obj	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
+10	niman	niman	ADV	_	_	13	advmod	_	_
+11	se	se	PRON	_	_	13	nsubj	_	_
+12	ye	ya	ADV	_	_	13	advmod	_	_
+13	quinequih	nequi	VERB	_	_	0	root	_	_
+14	quimictisqueh	icti	VERB	_	_	13	xcomp	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	uan	uan	CCONJ	_	_	21	cc	_	_
+17	tla	tla	SCONJ	_	_	19	mark	_	_
+18	se	se	PRON	_	_	19	nsubj	_	_
+19	quimictiah	mictia	VERB	_	_	21	advcl	_	_
+20	se	se	PRON	_	_	21	nsubj	_	_
+21	cuicatinemih	uica	VERB	_	_	13	conj	_	_
+22	ic	ic	ADP	_	_	23	case	_	_
+23	altepetl	altepetl	NOUN	_	_	21	obl	_	_
+24	,	,	PUNCT	_	_	26	punct	_	_
+25	se	se	PRON	_	_	26	nsubj	_	_
+26	quitlahtlantinemi	tlahtlani	VERB	_	_	21	parataxis	_	_
+27	tomin	tomin	NOUN	_	_	26	obj	_	_
+28	.	.	PUNCT	_	_	26	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:136
+# text = de melauac ?
+# text[spa] = --??pero que es cierto?
+1	de	de	ADP	_	_	2	case	_	_
+2	melauac	melauac	ADJ	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:137
+# text = niquitta in teh aic timiqui , o aic y o timic ....
+# text[spa] = --por lo que veo, t£ nunca te has muerto ...
+1	niquitta	itta	VERB	_	_	0	root	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	teh	tehuatl	PRON	_	_	5	nsubj	_	_
+4	aic	aic	ADV	_	_	5	advmod	_	_
+5	timiqui	miqui	VERB	_	_	1	ccomp	_	_
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	o	o	CCONJ	_	_	11	cc	_	_
+8	aic	aic	ADV	_	_	11	advmod	_	_
+9	y	ya	ADV	_	_	11	advmod	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	timic	miqui	VERB	_	_	5	conj	_	_
+12	....	....	PUNCT	_	_	11	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:138
+# text = xicchia , mati aquin ne uitz !
+# text[spa] = !!quieto! !!quin sabe quin viene!
+1	xicchia	chia	VERB	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	mati	mati	ADV	_	_	6	advmod	_	_
+4	aquin	aquin	PRON	_	_	6	nsubj	_	_
+5	ne	ne	ADV	_	_	6	advmod	_	_
+6	uitz	uitz	VERB	_	_	1	parataxis	_	_
+7	!	!	PUNCT	_	_	6	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:139
+# text = amacah uitz , aquin ticnequi uitz ?
+# text[spa] = --no viene ninguno, ??quin quieres que venga?
+1	amacah	amacah	PRON	_	_	2	nsubj	_	_
+2	uitz	uitzi	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	aquin	aquin	PRON	_	_	5	nsubj	_	_
+5	ticnequi	nequi	VERB	_	_	2	parataxis	_	_
+6	uitz	uitz	VERB	_	_	5	ccomp	_	_
+7	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:140
+# text = de melauac y o nimomahtih .
+# text[spa] = --de veras, yo me espant.
+1	de	de	ADP	_	_	2	case	_	_
+2	melauac	melauac	ADJ	_	_	5	advmod	_	_
+3	y	ya	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	nimomahtih	mahtia	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:141
+# text = san queh o tlayecohqueh o tlacuahqueh , o yahqueh , o quiquitzquihqueh in imitzuih , uan in ocachi uei o quilih in ocse .
+# text[spa] = tan luego como acabaron de comer, se fueron, cogieron su camino, y el m s grande le dijo al otro:
+1	san	san	ADV	_	_	4	advmod	_	_
+2	queh	que	SCONJ	_	_	4	mark	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	tlayecohqueh	yecoa	VERB	_	_	9	advcl	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	tlacuahqueh	cua	VERB	_	_	4	xcomp	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	yahqueh	yaui	VERB	_	_	0	root	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	quiquitzquihqueh	quitzquia	VERB	_	_	9	conj	_	_
+13	in	in	DET	_	_	14	det	_	_
+14	imitzuih	_	NOUN	_	_	12	obj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	uan	uan	CCONJ	_	_	21	cc	_	_
+17	in	in	DET	_	_	19	det	_	_
+18	ocachi	ocachi	ADV	_	_	19	advmod	_	_
+19	uei	uei	ADJ	_	_	21	nsubj	_	_
+20	o	o	AUX	_	_	21	aux	_	_
+21	quilih	ilia	VERB	_	_	9	conj	_	_
+22	in	in	DET	_	_	23	det	_	_
+23	ocse	ocse	PRON	_	_	21	iobj	_	_
+24	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:142
+# text = xicadivinaro canin tiaueh ?
+# text[spa] = --adivina a d¢nde vamos?
+1	xicadivinaro	adivinaroa	VERB	_	_	0	root	_	_
+2	canin	canin	ADV	_	_	3	advmod	_	_
+3	tiaueh	yaui	VERB	_	_	1	ccomp	_	_
+4	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:143
+# text = amo nicmati can tinechuica .
+# text[spa] = --no s d¢nde me llevas.
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	nicmati	mati	VERB	_	_	0	root	_	_
+3	can	can	ADV	_	_	4	advmod	_	_
+4	tinechuica	uica	VERB	_	_	2	ccomp	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:144
+# text = axan oritah tiaueh tepemiltitla .
+# text[spa] = --ahora vamos tepemiltitla.
+1	axan	axan	ADV	_	_	3	advmod	_	_
+2	oritah	ora	NOUN	_	_	3	obl	_	_
+3	tiaueh	yaui	VERB	_	_	0	root	_	_
+4	tepemiltitla	tepemiltitla	NOUN	_	_	3	obl	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:145
+# text = uan amo o quimatiah icuitlapan de n tepancuate , o quincactoya se chichi , nin amo o molinih uan o cmoluih .
+# text[spa] = y no sab¡an que atr s del tepancuate, los estaba oyendo un perro, ste qued¢ callado, y dijo:
+1	uan	uan	CCONJ	_	_	4	cc	_	_
+2	amo	amo	ADV	_	_	4	advmod	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	quimatiah	mati	VERB	_	_	0	root	_	_
+5	icuitlapan	cuitlapan	NOUN	_	_	11	obl	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	n	in	DET	_	_	8	det	_	_
+8	tepancuate	tepancuate	PROPN	_	_	5	nmod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	quincactoya	cacto	VERB	_	_	4	ccomp	_	_
+12	se	se	DET	_	_	13	det	_	_
+13	chichi	chichi	NOUN	_	_	11	nsubj	_	_
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	nin	nin	PRON	_	_	18	nsubj	_	_
+16	amo	amo	ADV	_	_	18	advmod	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	molinih	olinia	VERB	_	_	11	parataxis	_	_
+19	uan	uan	CCONJ	_	_	21	cc	_	_
+20	o	o	AUX	_	_	21	aux	_	_
+21	cmoluih	ilia	VERB	_	_	18	conj	_	_
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:146
+# text = y o niccac canin yasqueh , axan nias niquinualchiatih , niquiniitztos ic nochan , ninqueh yasqueh quinichtequitiueh in nopiouan .
+# text[spa] = --ya o¡ a d¢nde tienen que ir, ahora los tengo que ir a esperar, los espiar en mi casa, stos tienen que ir a robar mis gallinas.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	niccac	caqui	VERB	_	_	0	root	_	_
+4	canin	canin	ADV	_	_	5	advmod	_	_
+5	yasqueh	yaui	VERB	_	_	3	ccomp	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	axan	axan	ADV	_	_	8	advmod	_	_
+8	nias	a	VERB	_	_	3	parataxis	_	_
+9	niquinualchiatih	chia	VERB	_	_	8	conj	_	_
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	niquiniitztos	itta	VERB	_	_	8	conj	_	_
+12	ic	ic	ADP	_	_	13	case	_	_
+13	nochan	chantli	NOUN	_	_	11	obl	_	_
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	ninqueh	nin	PRON	_	_	16	nsubj	_	_
+16	yasqueh	yaui	VERB	_	_	3	parataxis	_	_
+17	quinichtequitiueh	ichtequi	VERB	_	_	16	conj	_	_
+18	in	in	DET	_	_	19	det	_	_
+19	nopiouan	piotl	NOUN	_	_	17	obj	_	_
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:147
+# text = amo quichiuasqueh non , niquiniitztos nochi in yoal .
+# text[spa] = no saldr n con su intento; los he de espiar esta noche.
+1	amo	amo	ADV	_	_	2	advmod	_	_
+2	quichiuasqueh	chiua	VERB	_	_	0	root	_	_
+3	non	non	PRON	_	_	2	obj	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	niquiniitztos	itta	VERB	_	_	2	parataxis	_	_
+6	nochi	nochi	DET	_	_	8	det	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	yoal	yoal	NOUN	_	_	5	obj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:148
+# text = o calac ichan , o tlacuah , uan despues o quimilito ocsequi chichimeh .
+# text[spa] = entr¢ a su casa, comi¢, despus fue a decirle a otros perros:
+1	o	o	AUX	_	_	2	aux	_	_
+2	calac	calaqui	VERB	_	_	0	root	_	_
+3	ichan	chantli	NOUN	_	_	2	obl	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	tlacuah	cua	VERB	_	_	2	conj	_	_
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	uan	uan	CCONJ	_	_	11	cc	_	_
+9	despues	después	ADV	_	_	11	advmod	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	quimilito	ilia	VERB	_	_	2	conj	_	_
+12	ocsequi	ocse	DET	_	_	13	det	_	_
+13	chichimeh	chichi	NOUN	_	_	11	obj	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:149
+# text = axan o namechtaco nannechpaleuitiueh , tiquinquitzquisqueh ome chignahtin , nicmati nin yoal uitzeh tlachtequiquiueh .
+# text[spa] = --ahora los vengo a invitar para que vayan a ayudar a coger a dos cacomizcles que s que esta noche vendr n a robar.
+1	axan	axan	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	namechtaco	itta	VERB	_	_	0	root	_	_
+4	nannechpaleuitiueh	paleuia	VERB	_	_	3	advcl	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	tiquinquitzquisqueh	quitzquia	VERB	_	_	3	parataxis	_	_
+7	ome	ome	NUM	_	_	8	nummod	_	_
+8	chignahtin	chignahtin	NOUN	_	_	6	obj	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	nicmati	mati	VERB	_	_	3	parataxis	_	_
+11	nin	nin	DET	_	_	12	det	_	_
+12	yoal	yoal	NOUN	_	_	13	obl	_	_
+13	uitzeh	uitzi	VERB	_	_	10	ccomp	_	_
+14	tlachtequiquiueh	ichtequiqui	VERB	_	_	13	advcl	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:150
+# text = cualli cah , tiasqueh xitechchia .
+# text[spa] = --bueno, all  iremos, espranos.
+1	cualli	cualli	ADJ	_	_	0	root	_	_
+2	cah	catqui	AUX	_	_	1	cop	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	tiasqueh	yaui	VERB	_	_	1	parataxis	_	_
+5	xitechchia	chia	VERB	_	_	4	parataxis	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:151
+# text = o yah in chichi o cochito ichan , o motecato o cochito .
+# text[spa] = se fue el perro a dormir a su casa, se fue a echar a dormir.
+1	o	o	AUX	_	_	2	aux	_	_
+2	yah	yaui	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	chichi	chichi	NOUN	_	_	2	nsubj	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	cochito	cochi	VERB	_	_	2	advcl	_	_
+7	ichan	chantli	NOUN	_	_	6	obl	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	motecato	teca	VERB	_	_	2	parataxis	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	cochito	cochi	VERB	_	_	10	advcl	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:152
+# text = in yehuan nochi in imiohuih , o motlapuihqueh quemeh sencah .
+# text[spa] = ellos pasaron su camino conversando como siempre.
+1	in	in	PRON	_	_	2	det	_	_
+2	yehuan	yehuan	PRON	_	_	8	nsubj	_	_
+3	nochi	nochi	PRON	_	_	5	det	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	imiohuih	miohtl	NOUN	_	_	8	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	motlapuihqueh	motlapuia	VERB	_	_	0	root	_	_
+9	quemeh	quemeh	ADP	_	_	10	case	_	_
+10	sencah	sencah	ADV	_	_	8	advmod	_	_
+11	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:153
+# text = y o ticcac tiasqueh tepemiltitla , ompa oniquinittac ihcuac o niah o niccuato xaxocotl , cateh sequi cuahcualli tohtomauaqueh piomeh , amo canah niquinitta queme nonque piomeh .
+# text[spa] = --ya lo o¡ste, hemos de ir a tepemiltitla, all¡ pas a ver, cuando fui a comer guayabas, que hay muy buenos pollos gordos, pues en ninguna parte he visto pollos como esos.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ticcac	caqui	VERB	_	_	0	root	_	_
+4	tiasqueh	yaui	VERB	_	_	3	parataxis	_	_
+5	tepemiltitla	tepemiltitla	NOUN	_	_	4	obl	_	_
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	ompa	ompa	ADV	_	_	8	advmod	_	_
+8	oniquinittac	itta	VERB	_	_	3	parataxis	_	_
+9	ihcuac	ihcuac	SCONJ	_	_	11	mark	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	niah	yaui	VERB	_	_	8	advcl	_	_
+12	o	o	AUX	_	_	13	aux	_	_
+13	niccuato	cua	VERB	_	_	11	advcl	_	_
+14	xaxocotl	xaxocotl	NOUN	_	_	13	obj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	cateh	catqui	VERB	_	_	3	parataxis	_	_
+17	sequi	sequi	DET	_	_	20	det	_	_
+18	cuahcualli	cualli	ADJ	_	_	20	amod	_	_
+19	tohtomauaqueh	tomauac	ADJ	_	_	20	amod	_	_
+20	piomeh	piotl	NOUN	_	_	16	nsubj	_	_
+21	,	,	PUNCT	_	_	24	punct	_	_
+22	amo	amo	ADV	_	_	24	advmod	_	_
+23	canah	canah	ADV	_	_	24	advmod	_	_
+24	niquinitta	itta	VERB	_	_	3	parataxis	_	_
+25	queme	queme	ADP	_	_	27	case	_	_
+26	nonque	non	DET	_	_	27	det	_	_
+27	piomeh	piotl	NOUN	_	_	24	obl	_	_
+28	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:154
+# text = axan yotahsicoh , aquin achto calaquis , teh noso neh ?
+# text[spa] = ahora, ya hemos llegado, ??quin primero entra, t£ o yo?
+1	axan	axan	ADV	_	_	2	advmod	_	_
+2	yotahsicoh	ahsi	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	aquin	aquin	PRON	_	_	6	nsubj	_	_
+5	achto	achto	ADV	_	_	6	advmod	_	_
+6	calaquis	calaqui	VERB	_	_	2	parataxis	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	teh	tehuatl	PRON	_	_	2	parataxis	_	_
+9	noso	noso	CCONJ	_	_	10	cc	_	_
+10	neh	nehuatl	PRON	_	_	8	conj	_	_
+11	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:155
+# text = queh teh ticnequis .
+# text[spa] = --!!como t£ quieras!
+1	queh	que	SCONJ	_	_	3	mark	_	_
+2	teh	tehuatl	PRON	_	_	3	nsubj	_	_
+3	ticnequis	nequi	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:156
+# text = in teh ye ticmati quen ticquitzquis se pipiotzin ?
+# text[spa] = ??ya t£ sabes c¢mo has de coger un pollito?
+1	in	in	DET	_	_	4	dep	_	_
+2	teh	tehuatl	PRON	_	_	4	nsubj	_	_
+3	ye	ye	ADV	_	_	4	advmod	_	_
+4	ticmati	mati	VERB	_	_	0	root	_	_
+5	quen	quen	ADV	_	_	6	advmod	_	_
+6	ticquitzquis	quitzquia	VERB	_	_	4	ccomp	_	_
+7	se	se	DET	_	_	8	det	_	_
+8	pipiotzin	pipiotl	NOUN	_	_	6	obj	_	_
+9	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:157
+# text = amo .
+# text[spa] = --no.
+1	amo	amo	ADV	_	_	0	root	_	_
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:158
+# text = aic quienman y o tiquittac quen cochih ?
+# text[spa] = ??alguna vez ya has visto como duermen?
+1	aic	aic	ADV	_	_	5	advmod	_	_
+2	quienman	quienman	ADV	_	_	5	advmod	_	_
+3	y	ya	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	tiquittac	itta	VERB	_	_	0	root	_	_
+6	quen	queni	ADV	_	_	7	advmod	_	_
+7	cochih	cochi	NOUN	_	_	5	ccomp	_	_
+8	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:159
+# text = aic niquimitta .
+# text[spa] = --nunca los he visto.
+1	aic	aic	ADV	_	_	2	advmod	_	_
+2	niquimitta	itta	VERB	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:160
+# text = xiccaqui tlen nimitzilis , xitlasalo , amo yeh quienman itlah mitzpanos .
+# text[spa] = --oye lo que voy a decirte; aprende, no sea que alguna vez te vaya a pasar algo.
+1	xiccaqui	caqui	VERB	_	_	0	root	_	_
+2	tlen	tlenoh	PRON	_	_	3	obj	_	_
+3	nimitzilis	ilia	VERB	_	_	1	xcomp	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	xitlasalo	saloa	VERB	_	_	1	parataxis	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	amo	amo	ADV	_	_	8	advmod	_	_
+8	yeh	yehuatl	PRON	_	_	1	parataxis	_	_
+9	quienman	quienman	ADV	_	_	11	advmod	_	_
+10	itlah	itlah	PRON	_	_	11	det	_	_
+11	mitzpanos	panoa	VERB	_	_	8	csubj	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:162
+# text = o calac in ocse uan in yeh o tlehcoc ipan in cuauitl de tzapotl , itoca tzapocuauitl , san uehca o quitztoya , ihcuac in ocse o calac can cochih in piomeh , tos in chichi o quihnec uan o peh tlacuahcua ;
+# text[spa] = entr¢ el otro y l se subi¢ arriba del  rbol de zapote; nada m s de lejos lo estaba mirando cuando el otro entr¢ al gallinero; entonces el perro lo husme¢ y empez¢ a ladrar;
+1	o	o	AUX	_	_	2	aux	_	_
+2	calac	calaqui	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	ocse	ocse	PRON	_	_	2	nsubj	_	_
+5	uan	uan	CCONJ	_	_	9	cc	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	yeh	yehuatl	PRON	_	_	9	nsubj	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	tlehcoc	tlehco	VERB	_	_	2	conj	_	_
+10	ipan	pan	NOUN	_	_	9	obl	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	cuauitl	cuauitl	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	tzapotl	tzapotl	NOUN	_	_	12	nmod	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	itoca	toca	NOUN	_	_	17	nsubj	_	_
+17	tzapocuauitl	tzapocuauitl	NOUN	_	_	12	appos	_	_
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	san	san	ADV	_	_	20	advmod	_	_
+20	uehca	uehca	ADV	_	_	22	advmod	_	_
+21	o	o	AUX	_	_	22	aux	_	_
+22	quitztoya	ita	VERB	_	_	9	parataxis	_	_
+23	,	,	PUNCT	_	_	28	punct	_	_
+24	ihcuac	ihcuac	SCONJ	_	_	28	mark	_	_
+25	in	in	DET	_	_	28	det	_	_
+26	ocse	ocse	DET	_	_	28	det	_	_
+27	o	o	AUX	_	_	28	aux	_	_
+28	calac	calac	NOUN	_	_	38	advcl	_	_
+29	can	can	ADV	_	_	30	advmod	_	_
+30	cochih	cochi	VERB	_	_	28	advcl	_	_
+31	in	in	DET	_	_	32	det	_	_
+32	piomeh	piotl	NOUN	_	_	30	nsubj	_	_
+33	,	,	PUNCT	_	_	38	punct	_	_
+34	tos	entonces	ADV	_	_	38	advmod	_	_
+35	in	in	DET	_	_	36	det	_	_
+36	chichi	chichi	NOUN	_	_	38	nsubj	_	_
+37	o	o	AUX	_	_	38	aux	_	_
+38	quihnec	hneca	VERB	_	_	9	parataxis	_	_
+39	uan	uan	CCONJ	_	_	42	cc	_	_
+40	o	o	AUX	_	_	42	aux	_	_
+41	peh	peua	AUX	_	_	42	aux	_	_
+42	tlacuahcua	cuahcua	VERB	_	_	38	conj	_	_
+43	;	;	PUNCT	_	_	42	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:163
+# text = niman o uallahqueh ocsequi chichimeh uan o cyeualohqueh can cochih in piomeh , uan o quiliayan in chichimeh .
+# text[spa] = luego llegaron otros perros m s y rodearon el gallinero; y le dec¡an los perros:
+1	niman	niman	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	uallahqueh	ualla	VERB	_	_	0	root	_	_
+4	ocsequi	ocse	DET	_	_	5	det	_	_
+5	chichimeh	chichi	NOUN	_	_	3	nsubj	_	_
+6	uan	uan	CCONJ	_	_	8	cc	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	cyeualohqueh	yeualoa	VERB	_	_	3	conj	_	_
+9	can	can	ADV	_	_	10	advmod	_	_
+10	cochih	cochi	VERB	_	_	8	advcl	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	piomeh	piotl	NOUN	_	_	10	nsubj	_	_
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	uan	uan	CCONJ	_	_	16	cc	_	_
+15	o	o	AUX	_	_	16	aux	_	_
+16	quiliayan	ilia	VERB	_	_	3	conj	_	_
+17	in	in	DET	_	_	18	det	_	_
+18	chichimeh	chichi	NOUN	_	_	16	iobj	_	_
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:164
+# text = xiquisa chignah , ichtecqui , nican timitzmacasqueh , tiquittas oritah tiualquisas , tictasqueh quenin tiquinualquixtis in piomeh , xiquisa nican timitzcocototzasqueh ica in totlanuan .
+# text[spa] = --!!sal, cacomizcle ladr¢n!  !!aqu¡ te daremos lo que te mereces! !!vamos a ver como sacas los pollos! ... sal, y aqu¡ mismo te destrozaremos con nuestros dientes.
+1	xiquisa	quisa	VERB	_	_	0	root	_	_
+2	chignah	chignah	NOUN	_	_	1	vocative	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ichtecqui	ichtecqui	NOUN	_	_	2	appos	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	nican	nican	ADV	_	_	7	advmod	_	_
+7	timitzmacasqueh	maca	VERB	_	_	1	parataxis	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	tiquittas	itta	VERB	_	_	1	parataxis	_	_
+10	oritah	ora	NOUN	_	_	11	nsubj	_	_
+11	tiualquisas	quisa	VERB	_	_	9	ccomp	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	tictasqueh	itta	VERB	_	_	1	parataxis	_	_
+14	quenin	queni	ADV	_	_	15	advmod	_	_
+15	tiquinualquixtis	quixtia	VERB	_	_	13	advcl	_	_
+16	in	in	DET	_	_	17	det	_	_
+17	piomeh	piotl	NOUN	_	_	15	obj	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	xiquisa	quisa	VERB	_	_	1	parataxis	_	_
+20	nican	nican	ADV	_	_	21	advmod	_	_
+21	timitzcocototzasqueh	cocototza	VERB	_	_	1	parataxis	_	_
+22	ica	ca	NOUN	_	_	21	obl	_	_
+23	in	in	DET	_	_	24	det	_	_
+24	totlanuan	tlan	NOUN	_	_	22	nmod	_	_
+25	.	.	PUNCT	_	_	21	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:165
+# text = in chignah amo o quineltocaya tlen o quiliayah in chichimeh .
+# text[spa] = el cacomizcle no cre¡a lo que le dec¡an los perros.
+1	in	in	DET	_	_	2	det	_	_
+2	chignah	chignah	NOUN	_	_	5	nsubj	_	_
+3	amo	amo	ADV	_	_	5	advmod	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	quineltocaya	neltoca	VERB	_	_	0	root	_	_
+6	tlen	tlenoh	PRON	_	_	8	obj	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	quiliayah	ilia	VERB	_	_	5	ccomp	_	_
+9	in	in	DET	_	_	10	det	_	_
+10	chichimeh	chichi	NOUN	_	_	8	nsubj	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:166
+# text = oc o quincactoya in piomeh , quen o cotaloayah nic o cochiah , uan se pio , o tlatenmictoya uan o quiniliaya in ocsequintin , uan in ocsequintin nihqui o cualnanquiliayah itech in intenmic , uan se o quimiliaya in ocsequintin .
+# text[spa] = todav¡a estaba oyendo a los pollos roncar dormidos y un pollo estaba so€ando y les dec¡a algo a los otros, y los dem s tambin le contestaban en sue€os y uno de ellos les dec¡a a los otros:
+1	oc	oc	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quincactoya	caqui	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	piomeh	piotl	NOUN	_	_	9	nsubj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	quen	quen	ADV	_	_	9	advmod	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	cotaloayah	cotaloa	VERB	_	_	3	advcl	_	_
+10	nic	nic	SCONJ	_	_	12	mark	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	cochiah	cochi	VERB	_	_	9	advcl	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	uan	uan	CCONJ	_	_	19	cc	_	_
+15	se	se	DET	_	_	16	det	_	_
+16	pio	piotl	NOUN	_	_	19	nsubj	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	o	o	AUX	_	_	19	aux	_	_
+19	tlatenmictoya	tenmiqui	VERB	_	_	3	conj	_	_
+20	uan	uan	CCONJ	_	_	22	cc	_	_
+21	o	o	AUX	_	_	22	aux	_	_
+22	quiniliaya	ilia	VERB	_	_	3	conj	_	_
+23	in	in	DET	_	_	24	det	_	_
+24	ocsequintin	ocse	PRON	_	_	22	iobj	_	_
+25	,	,	PUNCT	_	_	31	punct	_	_
+26	uan	uan	CCONJ	_	_	31	cc	_	_
+27	in	in	DET	_	_	28	det	_	_
+28	ocsequintin	ocse	PRON	_	_	31	nsubj	_	_
+29	nihqui	nihqui	ADV	_	_	31	advmod	_	_
+30	o	o	AUX	_	_	31	aux	_	_
+31	cualnanquiliayah	nanquilia	VERB	_	_	3	conj	_	_
+32	itech	tech	NOUN	_	_	31	obl	_	_
+33	in	in	DET	_	_	34	det	_	_
+34	intenmic	_	NOUN	_	_	32	nmod	_	_
+35	,	,	PUNCT	_	_	39	punct	_	_
+36	uan	uan	CCONJ	_	_	39	cc	_	_
+37	se	se	PRON	_	_	39	nsubj	_	_
+38	o	o	AUX	_	_	39	aux	_	_
+39	quimiliaya	ilia	VERB	_	_	3	conj	_	_
+40	in	in	DET	_	_	41	det	_	_
+41	ocsequintin	ocse	NOUN	_	_	39	iobj	_	_
+42	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:167
+# text = xictacan nican uitz in cauilan techyeualohtinemi .
+# text[spa] = --miren, all¡ viene el gavil n, nos anda rodeando.
+1	xictacan	itta	VERB	_	_	0	root	_	_
+2	nican	nican	ADV	_	_	3	advmod	_	_
+3	uitz	uitz	VERB	_	_	1	ccomp	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	cauilan	cauilan	NOUN	_	_	3	nsubj	_	_
+6	techyeualohtinemi	yeualoa	VERB	_	_	3	parataxis	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:168
+# text = tos o tlananquilih in chignah .
+# text[spa] = a los que contest¢ el cacomizcle:
+1	tos	entonces	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	tlananquilih	nanquilia	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	chignah	chignah	NOUN	_	_	3	obj	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:169
+# text = amo ye n cauilan namechyeualohtinemi , ye n neh in chignah , o namechtlahpaloco .
+# text[spa] = --si no es el gavil n quien los anda rodeando, sino yo, el cacomizcle, que los viene a saludar.
+1	amo	amo	ADV	_	_	4	advmod	_	_
+2	ye	yehuatl	PRON	_	_	4	cop	_	_
+3	n	in	DET	_	_	4	det	_	_
+4	cauilan	cauilan	NOUN	_	_	0	root	_	_
+5	namechyeualohtinemi	yeualoa	VERB	_	_	4	acl	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	ye	ye	PRON	_	_	9	cop	_	_
+8	n	in	DET	_	_	9	det	_	_
+9	neh	nehuatl	PRON	_	_	4	parataxis	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	chignah	chignah	NOUN	_	_	9	appos	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	namechtlahpaloco	tlahpaloa	VERB	_	_	9	parataxis	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:170
+# text = ye uehcan aco namechtlahpaloa .
+# text[spa] = y hace mucho tiempo que no los saludaba.
+1	ye	ye	ADV	_	_	4	advmod	_	_
+2	uehcan	uehca	ADV	_	_	4	advmod	_	_
+3	aco	aco	ADV	_	_	4	advmod	_	_
+4	namechtlahpaloa	tlahpaloa	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:171
+# text = uan yoyolictzin ic icuitlapan o cmatocac .
+# text[spa] = y muy cari€osamente, por la espalda, le toc¢.
+1	uan	uan	CCONJ	_	_	6	cc	_	_
+2	yoyolictzin	yoyolic	ADJ	_	_	6	advmod	_	_
+3	ic	ic	ADP	_	_	4	case	_	_
+4	icuitlapan	cuitlapan	NOUN	_	_	6	obl	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	cmatocac	matoca	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:172
+# text = tos o ihsac in pio uan o peh tzahtzi , o momahtih , uan in ocsequi piomeh nihqui , o pehqueh mopapatlatzah , mahtitoqueh , tons o pehqueh ueuetzih de n cuauitl can o catcah
+# text[spa] = luego despert¢se el pollo y empez¢ a gritar espantado, y los otros pollos tambin empezaron a aletear muy asustados y todos empezaron a dejarse caer de los palos en que estaban
+1	tos	entonces	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ihsac	ihsa	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	pio	piotl	NOUN	_	_	3	nsubj	_	_
+6	uan	uan	CCONJ	_	_	9	cc	_	_
+7	o	o	AUX	_	_	9	aux	_	_
+8	peh	peua	AUX	_	_	9	aux	_	_
+9	tzahtzi	tzahtzi	VERB	_	_	3	conj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	momahtih	mahtia	VERB	_	_	3	conj	_	_
+13	,	,	PUNCT	_	_	17	punct	_	_
+14	uan	uan	CCONJ	_	_	17	cc	_	_
+15	in	in	DET	_	_	17	det	_	_
+16	ocsequi	ocse	DET	_	_	17	det	_	_
+17	piomeh	piotl	NOUN	_	_	22	nsubj	_	_
+18	nihqui	nihqui	ADV	_	_	22	advmod	_	_
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	o	o	AUX	_	_	22	aux	_	_
+21	pehqueh	peua	AUX	_	_	22	aux	_	_
+22	mopapatlatzah	papatlatza	VERB	_	_	3	conj	_	_
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	mahtitoqueh	mahtia	VERB	_	_	22	advcl	_	_
+25	,	,	PUNCT	_	_	24	punct	_	_
+26	tons	entonces	ADV	_	_	29	advmod	_	_
+27	o	o	AUX	_	_	29	aux	_	_
+28	pehqueh	peua	AUX	_	_	29	aux	_	_
+29	ueuetzih	ueuetzi	ADJ	_	_	22	parataxis	_	_
+30	de	de	ADP	_	_	32	case	_	_
+31	n	in	DET	_	_	32	det	_	_
+32	cuauitl	cuauitl	NOUN	_	_	29	obl	_	_
+33	can	can	ADV	_	_	32	acl	_	_
+34	o	o	AUX	_	_	33	aux	_	_
+35	catcah	catqui	AUX	_	_	33	cop	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:173
+# text = can cochih uan o motzahtziliayah sequi uan ocsequi .
+# text[spa] = en el gallinero y se gritaban unos a los otros:
+1	can	can	ADV	_	_	2	advmod	_	_
+2	cochih	cochi	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	5	cc	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	motzahtziliayah	tzahtzilia	VERB	_	_	2	conj	_	_
+6	sequi	sequi	PRON	_	_	5	nsubj	_	_
+7	uan	uan	CCONJ	_	_	8	cc	_	_
+8	ocsequi	ocse	PRON	_	_	6	conj	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:174
+# text = xihsacan ! xihsacan !,... mati tlen yolcatl y o cuicac se pipiotzin .
+# text[spa] = --!!despierten!  !!despierten! ... !!quin sabe qu animal ya se llev¢ un pollito!
+1	xihsacan	ihsa	VERB	_	_	0	root	_	_
+2	!	!	PUNCT	_	_	3	punct	_	_
+3	xihsacan	ihsa	VERB	_	_	1	parataxis	_	_
+4	!,...	!,...	PUNCT	_	_	5	punct	_	_
+5	mati	mati	ADV	_	_	10	advmod	_	_
+6	tlen	tlenoh	PRON	_	_	7	det	_	_
+7	yolcatl	yolcatl	NOUN	_	_	10	obj	_	_
+8	y	ya	ADV	_	_	10	advmod	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	cuicac	uica	VERB	_	_	1	parataxis	_	_
+11	se	se	DET	_	_	12	det	_	_
+12	pipiotzin	piotl	NOUN	_	_	10	obj	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:175
+# text = in galloh o paxialoaya , o momachiliaya chicahtoc amo o momahtiaya , o moelquetzaya uan o mocuicatiaya .
+# text[spa] = y el gallo se paseaba orgulloso en medio, paraba el pecho y cantaba:
+1	in	in	DET	_	_	2	det	_	_
+2	galloh	galloh	NOUN	_	_	4	nsubj	_	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	paxialoaya	paxialoa	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	momachiliaya	machilia	VERB	_	_	4	parataxis	_	_
+8	chicahtoc	_	VERB	_	_	7	xcomp	_	_
+9	amo	amo	ADV	_	_	11	advmod	_	_
+10	o	o	AUX	_	_	11	aux	_	_
+11	momahtiaya	mahtia	VERB	_	_	4	parataxis	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	o	o	AUX	_	_	14	aux	_	_
+14	moelquetzaya	elquetza	VERB	_	_	4	parataxis	_	_
+15	uan	uan	CCONJ	_	_	17	cc	_	_
+16	o	o	AUX	_	_	17	aux	_	_
+17	mocuicatiaya	cuicatia	VERB	_	_	14	conj	_	_
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:176
+# text = quiquiriqui , uan ihcon queh o mocuicatiaya , o quilih in chignah .
+# text[spa] = --quiquiriqu¡!  y en su canto le dijo al cacomizcle:
+1	quiquiriqui	quiquiriqui	INTJ	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	7	punct	_	_
+3	uan	uan	CCONJ	_	_	7	cc	_	_
+4	ihcon	ihcon	ADV	_	_	7	advmod	_	_
+5	queh	queh	ADV	_	_	7	mark	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	mocuicatiaya	cuicatia	VERB	_	_	10	advcl	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	o	o	AUX	_	_	10	aux	_	_
+10	quilih	ilia	VERB	_	_	1	conj	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	chignah	chignah	NOUN	_	_	10	nsubj	_	_
+13	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:177
+# text = y o ticuicac se nosoah , uan o quilih in isoah .
+# text[spa] = quiquiriqu¡!  !!ya te llevaste a una de mis mujeres! y dirigindose a su esposa, le dice:
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ticuicac	uica	VERB	_	_	0	root	_	_
+4	se	se	DET	_	_	5	det	_	_
+5	nosoah	soatl	NOUN	_	_	3	nsubj	_	_
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	uan	uan	CCONJ	_	_	9	cc	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	quilih	ilia	VERB	_	_	3	conj	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	isoah	soatl	NOUN	_	_	9	iobj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:178
+# text = ihcuac ocuel uitz nonauac mottas .
+# text[spa] = --!!cuando otra veza venga, conmigo tiene!
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	ocuel	ocuel	ADV	_	_	3	advmod	_	_
+3	uitz	uitz	VERB	_	_	5	advcl	_	_
+4	nonauac	nauac	NOUN	_	_	3	obl	_	_
+5	mottas	motta	NOUN	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:179
+# text = axan ouallah uan amo itlah o ticchiuilih .
+# text[spa] = --ahora vino y nada le hiciste.
+1	axan	axan	ADV	_	_	2	advmod	_	_
+2	ouallah	ualla	VERB	_	_	0	root	_	_
+3	uan	uan	CCONJ	_	_	7	cc	_	_
+4	amo	amo	ADV	_	_	5	advmod	_	_
+5	itlah	itlah	PRON	_	_	7	obj	_	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	ticchiuilih	chiluilia	VERB	_	_	2	conj	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:180
+# text = in teh san xie , xictzacua in mocamac .
+# text[spa] = --!!t£ c llate la boca!
+1	in	in	DET	_	_	2	det	_	_
+2	teh	tehuatl	PRON	_	_	4	nsubj	_	_
+3	san	san	ADV	_	_	4	advmod	_	_
+4	xie	catqui	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	xictzacua	tzacua	VERB	_	_	4	parataxis	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	mocamac	camac	NOUN	_	_	6	obj	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:181
+# text = uan o ctelicsac uan o quinilih .
+# text[spa] = y la pate¢ y les dijo:
+1	uan	uan	CCONJ	_	_	3	cc	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	ctelicsac	telicsa	VERB	_	_	0	root	_	_
+4	uan	uan	CCONJ	_	_	6	cc	_	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	quinilih	ilia	VERB	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:182
+# text = axan xicochican , uan namechilia namehuan , cacaraca !
+# text[spa] = --ahora !!a dormir!, y les digo a ustedes cacaracac
+1	axan	axan	ADV	_	_	2	advmod	_	_
+2	xicochican	cochi	VERB	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	uan	uan	CCONJ	_	_	5	cc	_	_
+5	namechilia	ilia	VERB	_	_	2	conj	_	_
+6	namehuan	namehuan	PRON	_	_	5	iobj	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	cacaraca	cacaraca	NOUN	_	_	5	obj	_	_
+9	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:183
+# text = cacaraca !, neh nichicahtoc amo cah ocse quen neh , in neh amo nimomahtia , nican uan canic quinequisqueh .
+# text[spa] = ... cacaracac  ... !!que soy fuerte como no hay otro! !!yo soy valiente, aqu¡ y en donde quieran!
+1	cacaraca	cacaraca	NOUN	_	_	0	root	_	_
+2	!,	!,	PUNCT	_	_	4	punct	_	_
+3	neh	nehuatl	PRON	_	_	4	nsubj	_	_
+4	nichicahtoc	chicahtoc	ADJ	_	_	1	parataxis	_	_
+5	amo	amo	ADV	_	_	6	advmod	_	_
+6	cah	catqui	VERB	_	_	1	parataxis	_	_
+7	ocse	ocse	PRON	_	_	6	nsubj	_	_
+8	quen	quen	ADV	_	_	9	mark	_	_
+9	neh	nehuatl	PRON	_	_	7	nmod	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	in	in	DET	_	_	12	det	_	_
+12	neh	nehua	PRON	_	_	14	nsubj	_	_
+13	amo	amo	ADV	_	_	14	advmod	_	_
+14	nimomahtia	mahtia	VERB	_	_	1	parataxis	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	nican	nican	ADV	_	_	14	advmod	_	_
+17	uan	uan	CCONJ	_	_	19	cc	_	_
+18	canic	canic	ADV	_	_	19	advmod	_	_
+19	quinequisqueh	nequi	VERB	_	_	16	conj	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:184
+# text = ihcuac o quintlapuiaya in gallo innauac in caxtiltin , in chichimeh , y o cmictihcah in chignah .
+# text[spa] = mientras platicaba el gallo con las gallinas, he aqu¡ que los perros en el corral ya hab¡an matado al cacomizcle.
+1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quintlapuiaya	tlapuia	VERB	_	_	15	advcl	_	_
+4	in	in	DET	_	_	5	det	_	_
+5	gallo	gallo	NOUN	_	_	3	obj	_	_
+6	innauac	nauac	NOUN	_	_	3	obl	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	caxtiltin	caxtil	NOUN	_	_	6	nmod	_	_
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	chichimeh	chichi	NOUN	_	_	15	nsubj	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	y	ya	ADV	_	_	15	advmod	_	_
+14	o	o	AUX	_	_	15	aux	_	_
+15	cmictihcah	mictia	VERB	_	_	0	root	_	_
+16	in	in	DET	_	_	17	det	_	_
+17	chignah	chignah	NOUN	_	_	15	obj	_	_
+18	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:185
+# text = uan in ocse , de n o catca ipan in tzapocuauitl , ihcuac o quittac y o cmictihqueh in chichimeh , in chignah o temoc totoca , den tzapocuauitl , uan o quilito in leon .
+# text[spa] = y el otro que estaba arriba del  rbol de zapote, cuando vio que acabaron de matar los perros a ese cacomizcle, despus luego se baj¢ corriendo de arriba del  rbol de zapote y le fue a avisar al le¢n.
+1	uan	uan	CCONJ	_	_	25	cc	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	ocse	ocse	PRON	_	_	25	nsubj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	de	de	ADP	_	_	8	mark	_	_
+6	n	in	SCONJ	_	_	8	mark	_	_
+7	o	o	AUX	_	_	8	aux	_	_
+8	catca	catqui	VERB	_	_	3	acl	_	_
+9	ipan	pan	NOUN	_	_	8	obl	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	tzapocuauitl	tzapocuauitl	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	ihcuac	ihcuac	SCONJ	_	_	15	mark	_	_
+14	o	o	AUX	_	_	15	aux	_	_
+15	quittac	itta	VERB	_	_	25	advcl	_	_
+16	y	ya	ADV	_	_	18	advmod	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	cmictihqueh	ctihquia	VERB	_	_	15	ccomp	_	_
+19	in	in	DET	_	_	20	det	_	_
+20	chichimeh	chichi	NOUN	_	_	18	nsubj	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	in	in	DET	_	_	23	det	_	_
+23	chignah	chignah	NOUN	_	_	18	obj	_	_
+24	o	o	AUX	_	_	25	aux	_	_
+25	temoc	temoa	VERB	_	_	0	root	_	_
+26	totoca	totoca	VERB	_	_	25	advcl	_	_
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	den	den	DET	_	_	29	det	_	_
+29	tzapocuauitl	tzapocuauitl	NOUN	_	_	25	obl	_	_
+30	,	,	PUNCT	_	_	33	punct	_	_
+31	uan	uan	CCONJ	_	_	33	cc	_	_
+32	o	o	AUX	_	_	33	aux	_	_
+33	quilito	ilia	VERB	_	_	25	conj	_	_
+34	in	in	DET	_	_	35	det	_	_
+35	leon	leon	NOUN	_	_	33	iobj	_	_
+36	.	.	PUNCT	_	_	33	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:186
+# text = o quilih .
+# text[spa] = le dijo:
+1	o	o	AUX	_	_	2	aux	_	_
+2	quilih	ilia	VERB	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:187
+# text = y o niuallah , uan in ocse o yah nonauac y o cmictihqueh .
+# text[spa] = --yo ya vine, y el otro que conmigo fue ya lo mataron.
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	niuallah	ualla	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	uan	uan	CCONJ	_	_	9	cc	_	_
+6	in	in	DET	_	_	7	det	_	_
+7	ocse	ocse	PRON	_	_	9	nsubj	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	yah	yaui	VERB	_	_	3	conj	_	_
+10	nonauac	nauac	NOUN	_	_	9	obl	_	_
+11	y	ya	ADV	_	_	13	advmod	_	_
+12	o	o	AUX	_	_	13	aux	_	_
+13	cmictihqueh	mictia	VERB	_	_	9	advcl	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:188
+# text = tos in leon o cnanquilih .
+# text[spa] = luego el le¢n le dijo:
+1	tos	entonces	ADV	_	_	5	advmod	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	leon	leon	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	cnanquilih	nanquilia	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:189
+# text = axan , nic o ticualcah , in teh nihqui timiquis .
+# text[spa] = --ahora, porque lo dejaste, tambin t£ tienes que morir.
+1	axan	axan	ADV	_	_	10	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	nic	nic	SCONJ	_	_	5	mark	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	ticualcah	caua	VERB	_	_	10	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	in	in	DET	_	_	8	det	_	_
+8	teh	tehuatl	PRON	_	_	10	nsubj	_	_
+9	nihqui	nihqui	ADV	_	_	10	advmod	_	_
+10	timiquis	miqui	VERB	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:190
+# text = o quihtoh in chignah .
+# text[spa] = dijo el cacomizcle:
+1	o	o	AUX	_	_	2	aux	_	_
+2	quihtoh	ihtoa	VERB	_	_	0	root	_	_
+3	in	in	DET	_	_	4	det	_	_
+4	chignah	chignah	NOUN	_	_	2	nsubj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:191
+# text = cualli leon , xiquimonnotza nochtin , o mas san sequi de n ocsequi yolcameh , uan yehuan ma ctocan .
+# text[spa] = --bueno, le¢n, convoque usted a todos, o a algunos de los otros animales, y que ellos digan.
+1	cualli	cualli	ADJ	_	_	0	root	_	_
+2	leon	leon	NOUN	_	_	1	vocative	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	xiquimonnotza	notza	VERB	_	_	1	parataxis	_	_
+5	nochtin	nochi	PRON	_	_	4	obj	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	o	o	CCONJ	_	_	10	cc	_	_
+8	mas	mas	ADV	_	_	10	advmod	_	_
+9	san	san	ADV	_	_	10	advmod	_	_
+10	sequi	sequi	PRON	_	_	4	conj	_	_
+11	de	de	ADP	_	_	14	case	_	_
+12	n	in	DET	_	_	14	det	_	_
+13	ocsequi	ocse	DET	_	_	14	det	_	_
+14	yolcameh	yolcatl	NOUN	_	_	10	nmod	_	_
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	uan	uan	CCONJ	_	_	19	cc	_	_
+17	yehuan	yehuan	PRON	_	_	19	nsubj	_	_
+18	ma	ma	AUX	_	_	19	aux	_	_
+19	ctocan	ctocan	VERB	_	_	4	conj	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:192
+# text = tos o quinnotzqueh in ocsequi yolcameh , o monechicohqueh , o momamanqueh , uan ix pan o tlatlacatocaqueh , uan tos o quimilih .
+# text[spa] = llam¢ luego a los otros animales y luego se reunieron, se formaron y en su presencia se doblegaron y les dijo luego:
+1	tos	entonces	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	quinnotzqueh	notza	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	6	det	_	_
+5	ocsequi	ocse	DET	_	_	6	det	_	_
+6	yolcameh	yolcatl	NOUN	_	_	3	obj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	o	o	AUX	_	_	9	aux	_	_
+9	monechicohqueh	nechicoa	VERB	_	_	3	conj	_	_
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	o	o	AUX	_	_	12	aux	_	_
+12	momamanqueh	mamana	VERB	_	_	3	conj	_	_
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	uan	uan	CCONJ	_	_	18	cc	_	_
+15	ix	ix	NOUN	_	_	16	nmod	_	_
+16	pan	pan	NOUN	_	_	18	obl	_	_
+17	o	o	AUX	_	_	18	aux	_	_
+18	tlatlacatocaqueh	tlacatoca	VERB	_	_	3	conj	_	_
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	uan	uan	CCONJ	_	_	23	cc	_	_
+21	tos	entonces	ADV	_	_	23	advmod	_	_
+22	o	o	AUX	_	_	23	aux	_	_
+23	quimilih	ilia	VERB	_	_	3	conj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:193
+# text = in chignah miquis .
+# text[spa] = --el cacomizcle tiene que morir.
+1	in	in	DET	_	_	2	det	_	_
+2	chignah	chignah	NOUN	_	_	3	nsubj	_	_
+3	miquis	miqui	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:194
+# text = niman in sorrah o tlahtlan .
+# text[spa] = luego la zorra pregunt¢:
+1	niman	niman	ADV	_	_	5	advmod	_	_
+2	in	in	DET	_	_	3	det	_	_
+3	sorrah	sorrah	NOUN	_	_	5	nsubj	_	_
+4	o	o	AUX	_	_	5	aux	_	_
+5	tlahtlan	tlahtlani	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:195
+# text = uan tleca miquis ?
+# text[spa] = --??por qu debe morir?
+1	uan	uan	CCONJ	_	_	3	cc	_	_
+2	tleca	tleca	ADV	_	_	3	advmod	_	_
+3	miquis	miqui	VERB	_	_	0	root	_	_
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:196
+# text = nic o cmictih in ocse ichignahicnih .
+# text[spa] = --por haber matado al otro cacomizcle.
+1	nic	nic	SCONJ	_	_	3	mark	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	cmictih	ctia	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	6	det	_	_
+5	ocse	ocse	DET	_	_	6	det	_	_
+6	ichignahicnih	chignahic	NOUN	_	_	3	obj	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:197
+# text = tos o tlananquilihqueh in ocsequi yolcameh , ma quihtocan in ocsequi .
+# text[spa] = y contestaron los dem s animales, que digan los otros animales:
+1	tos	entonces	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	tlananquilihqueh	nanquilia	VERB	_	_	0	root	_	_
+4	in	in	DET	_	_	6	det	_	_
+5	ocsequi	ocse	DET	_	_	6	det	_	_
+6	yolcameh	yolcatl	NOUN	_	_	3	nsubj	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	ma	ma	AUX	_	_	9	aux	_	_
+9	quihtocan	ihtoa	VERB	_	_	3	ccomp	_	_
+10	in	in	DET	_	_	11	det	_	_
+11	ocsequi	ocse	PRON	_	_	9	nsubj	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:198
+# text = cualli cah ma miqui in chignah ,;
+# text[spa] = --est  bien que muera el cacomizcle;
+1	cualli	cualli	ADJ	_	_	0	root	_	_
+2	cah	catqui	AUX	_	_	1	cop	_	_
+3	ma	ma	AUX	_	_	4	aux	_	_
+4	miqui	miqui	VERB	_	_	1	csubj	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	chignah	chignah	NOUN	_	_	4	nsubj	_	_
+7	,;	,;	PUNCT	_	_	4	punct	_	_
+
+# sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:199
+# text = pero achto ma quitlahtlani in sorrah , uan in tla yeh itlahtlacol , tos miquis .
+# text[spa] = pero que le tome declaraci¢n la zorra, y si l tiene la culpa, tendr que morir.
+1	pero	pero	CCONJ	_	_	4	cc	_	_
+2	achto	achto	ADV	_	_	4	advmod	_	_
+3	ma	ma	AUX	_	_	4	aux	_	_
+4	quitlahtlani	tlahtlani	VERB	_	_	0	root	_	_
+5	in	in	DET	_	_	6	det	_	_
+6	sorrah	sorrah	NOUN	_	_	4	nsubj	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	uan	uan	CCONJ	_	_	15	cc	_	_
+9	in	in	DET	_	_	12	det	_	_
+10	tla	tla	SCONJ	_	_	12	mark	_	_
+11	yeh	yehuatl	PRON	_	_	12	nsubj	_	_
+12	itlahtlacol	tlahtlacol	NOUN	_	_	15	advcl	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	tos	entonces	ADV	_	_	15	advmod	_	_
+15	miquis	miqui	VERB	_	_	4	conj	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
