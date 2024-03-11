@@ -20,7 +20,7 @@
 # tags = DONE
 1	ihcuac	ihcuac	SCONJ	_	_	3	mark	_	_
 2	o	o	AUX	_	_	3	aux	_	_
-3	panotaya	panota	VERB	_	_	5	advcl	_	_
+3	panotaya	panoa	VERB	_	_	5	advcl	_	_
 4	o	o	AUX	_	_	5	aux	_	_
 5	motoxah	motoxa	VERB	_	_	0	root	_	_
 6	se	se	DET	_	_	7	det	_	_
@@ -78,7 +78,7 @@
 1	uan	uan	CCONJ	_	_	3	cc	_	_
 2	o	o	AUX	_	_	3	aux	_	_
 3	panoc	panoa	VERB	_	_	0	root	_	_
-4	que	que	SCONJ	_	_	6	mark	_	_
+4	que	que	SCONJ	_	_	15	mark	_	_
 5	se	se	DET	_	_	6	det	_	_
 6	tlacatl	tlacatl	NOUN	_	_	15	nsubj	_	_
 7	que	que	SCONJ	_	_	9	mark	_	_
@@ -151,8 +151,8 @@
 9	o	o	AUX	_	_	10	aux	_	_
 10	quittac	itta	VERB	_	_	8	parataxis	_	_
 11	in	in	DET	_	_	12	det	_	_
-12	coatl	coatl	NOUN	_	_	10	ccomp	_	_
-13	ompa	ompa	ADV	_	_	12	advmod	_	_
+12	coatl	coatl	NOUN	_	_	10	obj	_	_
+13	ompa	ompa	ADV	_	_	12	advcl	_	_
 14	o	o	AUX	_	_	12	aux	_	_
 15	catca	catqui	AUX	_	_	12	cop	_	_
 16	.	.	PUNCT	_	_	2	punct	_	_
@@ -220,10 +220,12 @@
 # text = yonimitzilih amo nimitzquixtilis .
 # text[spa] = --ya te dije que te lo quitar.
 # tags = DONE
-1	yonimitzilih	ilia	VERB	_	_	0	root	_	_
-2	amo	amo	ADV	_	_	3	advmod	_	_
-3	nimitzquixtilis	quixtilia	VERB	_	_	1	ccomp	_	_
-4	.	.	PUNCT	_	_	3	punct	_	_
+1	y	ya	ADV	_	_	3	advmod	_	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	yonimitzilih	ilia	VERB	_	_	0	root	_	_
+4	amo	amo	ADV	_	_	3	advmod	_	_
+5	nimitzquixtilis	quixtilia	VERB	_	_	1	ccomp	_	_
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:15
 # text = amitlah nimitzchiuilis , quenin ?
@@ -231,7 +233,7 @@
 1	amitlah	amitlah	ADV	_	_	2	advmod	_	_
 2	nimitzchiuilis	chiuilia	VERB	_	_	0	root	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	quenin	queni	ADV	_	_	2	discourse	_	_
+4	quenin	queni	ADV	_	_	2	parataxis	_	_
 5	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:16
@@ -307,7 +309,7 @@
 6	que	que	SCONJ	_	_	9	mark	_	_
 7	amo	amo	ADV	_	_	9	advmod	_	_
 8	o	o	AUX	_	_	9	aux	_	_
-9	tlacuaya	cua	VERB	_	_	3	advcl	_	_
+9	tlacuaya	cua	VERB	_	_	3	acl	_	AlternativeRel=advcl
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	uan	uan	CCONJ	_	_	13	cc	_	_
 12	o	o	AUX	_	_	13	aux	_	_
@@ -450,7 +452,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:32
-# text = in tla amo ticneltoca , xiquinualica naui tlatlacah , uan imix pan niquintlahtlanis uan tiquittas quen melauac que se cualli ica se amocualli mitztlaxtlauilisqueh .
+# text = in tla amo ticneltoca , xiquinualica naui tlatlacah , uan imixpan niquintlahtlanis uan tiquittas quen melauac que se cualli ica se amocualli mitztlaxtlauilisqueh .
 # text[spa] = --si no est s de acuerdo, trae cuatro personas y delante de ti les preguntar y ver s c¢mo es cierto, que un bien con un mal se paga.
 1	in	in	SCONJ	_	_	4	mark	_	_
 2	tla	tla	SCONJ	_	_	4	mark	_	_
@@ -462,21 +464,20 @@
 8	tlatlacah	tlacatl	NOUN	_	_	6	obj	_	_
 9	,	,	PUNCT	_	_	13	punct	_	_
 10	uan	uan	CCONJ	_	_	13	cc	_	_
-11	imix	ix	NOUN	_	_	12	nmod	_	_
-12	pan	pan	NOUN	_	_	13	obl	_	_
-13	niquintlahtlanis	tlahtlani	VERB	_	_	6	conj	_	_
-14	uan	uan	CCONJ	_	_	15	cc	_	_
-15	tiquittas	itta	VERB	_	_	13	conj	_	_
-16	quen	quen	ADV	_	_	17	advmod	_	_
-17	melauac	melauac	ADJ	_	_	15	advcl	_	_
-18	que	que	SCONJ	_	_	24	mark	_	_
-19	se	se	DET	_	_	20	det	_	_
-20	cualli	cualli	NOUN	_	_	24	nsubj	_	_
-21	ica	ca	NOUN	_	_	24	obl	_	_
-22	se	se	PRON	_	_	23	det	_	_
-23	amocualli	amocualli	NOUN	_	_	21	nmod	_	_
-24	mitztlaxtlauilisqueh	tlaxtlauilia	VERB	_	_	17	csubj	_	_
-25	.	.	PUNCT	_	_	24	punct	_	_
+11	imixpan	ixpan	NOUN	_	_	13	obl	_	_
+12	niquintlahtlanis	tlahtlani	VERB	_	_	6	conj	_	_
+13	uan	uan	CCONJ	_	_	15	cc	_	_
+14	tiquittas	itta	VERB	_	_	13	conj	_	_
+15	quen	quen	ADV	_	_	17	advmod	_	_
+16	melauac	melauac	ADJ	_	_	15	advcl	_	_
+17	que	que	SCONJ	_	_	24	mark	_	_
+18	se	se	DET	_	_	20	det	_	_
+19	cualli	cualli	NOUN	_	_	24	iobj	_	_
+20	ica	ca	NOUN	_	_	24	obl	_	_
+21	se	se	PRON	_	_	23	det	_	_
+22	amocualli	amocualli	NOUN	_	_	21	nmod	_	_
+23	mitztlaxtlauilisqueh	tlaxtlauilia	VERB	_	_	17	csubj	_	_
+24	.	.	PUNCT	_	_	24	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:33
 # text = o yah niman in cualli tlacatl , o quintemoto naui yolcameh oquichtin .
@@ -537,12 +538,11 @@
 6	cada	cada	DET	_	_	8	det	_	_
 7	se	se	DET	_	_	8	det	_	_
 8	yolcatl	yolcatl	NOUN	_	_	5	obj	_	_
-9	ix	ix	NOUN	_	_	10	nmod	_	_
-10	pan	pan	NOUN	_	_	5	obl	_	_
-11	in	in	DET	_	_	13	det	_	_
-12	cualli	cualli	ADJ	_	_	13	amod	_	_
-13	tlacatl	tlacatl	NOUN	_	_	9	nmod	_	_
-14	.	.	PUNCT	_	_	5	punct	_	_
+9	ixpan	ixpan	NOUN	_	_	5	obl	_	_
+10	in	in	DET	_	_	13	det	_	_
+11	cualli	cualli	ADJ	_	_	13	amod	_	_
+12	tlacatl	tlacatl	NOUN	_	_	9	nmod	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:37
 # text = cualli leon , amo melauac que itlah cualli ica se itlah amo cualli mitztlaxtlauiliah ?
@@ -643,7 +643,7 @@
 20	amo	amo	ADV	_	_	21	advmod	_	_
 21	cualli	cualli	ADJ	_	_	19	amod	_	_
 22	se	se	PRON	_	_	23	nsubj	_	_
-23	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	8	ccomp	_	_
+23	quitlaxtlauiliah	tlaxtlauilia	VERB	_	_	8	parataxis	_	_
 24	o	o	AUX	_	_	25	aux	_	_
 25	momahtih	mahtia	VERB	_	_	0	root	_	_
 26	.	.	PUNCT	_	_	25	punct	_	_
@@ -754,9 +754,9 @@
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	ma	ma	AUX	_	_	8	aux	_	_
 8	motlali	tlalia	VERB	_	_	4	ccomp	_	_
-9	queh	que	SCONJ	_	_	11	mark	_	_
-10	o	o	AUX	_	_	11	aux	_	_
-11	catca	catqui	VERB	_	_	8	advcl	_	_
+9	queh	queni	ADV	_	_	8	advcl	_	_
+10	o	o	AUX	_	_	9	aux	_	_
+11	catca	catqui	AUX	_	_	9	cop	_	_
 12	;	;	PUNCT	_	_	4	punct	_	_
 
 # sent_id = predictions_PAPER_ncx-story.txt_nhi+azz.out:50
